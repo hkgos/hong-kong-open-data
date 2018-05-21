@@ -30,6 +30,6 @@
 * 開發者需要先在 https://data.gov.hk/en-data/api/3/action/package_list 取得完整的數據列表
 * 再以列表中的 `dataset id` 在 https://data.gov.hk/tc-data/api/3/action/package_show?id=[dataset_id] 中取得整個資料庫
 * 或者先以政府服務分類在 https://data.gov.hk/tc-data/api/3/action/group_list 中尋找相應的服務分類 id
-* 再在 https://data.gov.hk/sc-data/api/3/action/group_show?id=[group_id] 中以 `group id` 查看分類
+* 再在 https://data.gov.hk/tc-data/api/3/action/group_show?id=[group_id] 中以 `group id` 查看分類
 
 暫時沒有相關文件可供查閱
