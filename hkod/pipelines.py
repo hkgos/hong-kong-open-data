@@ -10,14 +10,14 @@ import csv
 class HkodPipeline(object):
 
     def open_spider(self, spider):
-#        self.file = csv.writer(open(spider.file_name, 'w', newline='', encoding = 'utf8') )
-#        fieldnames = ['Category', 'Name', 'Organization', 'Data Format', 'Update Frequency', 'Description', 'API']
-#        self.file.writerow(fieldnames)
-         print(" Spider name >>" + spider.name)
+         self.file = csv.writer(open(spider.file_name, 'w', newline='', encoding = 'utf8') )
+         fieldnames = ['Category', 'Name', 'Organization', 'Data Format', 'Update Frequency', 'Description', 'API']
+         self.file.writerow(fieldnames)
+#         print(" Spider name >>" + spider.name)
 
     def process_item(self, item, spider):
-#        self.file.writerow([item['category'], item['name'],item['org'], 
-#                    item['data_format'] , item['update_feq'],item['desc'], 
-#                    item['api']])
+        self.file.writerow([item['category'], item['name'],item['org'], 
+                    item['data_format'] , item['update_freq'],item['desc'], 
+                    item['api']])
 
         return item
