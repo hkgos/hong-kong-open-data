@@ -1,0 +1,835 @@
+Category,Name,Organization,Data Format,Update Frequency,Description,API
+City Management,"Trade licences for places of public entertainment, commercial bathhouses, swimming pools, slaughterhouses, offensive trades, funeral parlours and undertakers",Food and Environmental Hygiene Department,XML,Daily at 9:00am,List of trade licences issued by the Food and Environmental Hygiene Department,N
+Food,Products exempted from nutrition labelling,Food and Environmental Hygiene Department,XML,Every Friday,List of products that obtained exemptions from nutrition labelling under the “Small Volume Exemption” scheme,N
+Food,Pesticides Licensee List - Part II,"Agriculture, Fisheries and Conservation Department",CSV,Every 3 months,Part II of pesticides licensee list in Hong Kong,N
+Food,Today's Live Pig Supply and Auction Prices / Tomorrow's Live Pig Supply Forecast,Food and Environmental Hygiene Department,XML,Daily at 6:00pm,Today's Live Pig Supply and Auction Prices / Tomorrow's Live Pig Supply Forecast,N
+Development,Aerial Photo Flight Index,Lands Department,KML/KMZ/XLS,On yearly basis,"The aerial photo flight index shows the aerial photo and flight information, including photo number, shooting position, photo coverage, date of flight, flying height etc., of the aerial photographs taken by Survey and Mapping Office (SMO).  There are...",N
+Development,1:200 000 Topographic Map of Hong Kong,Lands Department,TIF,As and when necessary,"Hong Kong Special 
+Administrative Region 1:200 000 Topographic Map",N
+Development,Hong Kong Satellite Positioning Reference Station Network (SatRef) GNSS Raw Data Streams (RTCM Format),Lands Department,RTCM,As and when necessary,Hong Kong Satellite Positioning Reference Station Network (SatRef) GNSS Raw Data Streams (RTCM Format),N
+Development,District boundary,Home Affairs Department,GML/JSON,As and when necessary,Geo-referenced data of District Boundary.,N
+Climate and Weather,Quick earthquake messages,Hong Kong Observatory,RSS,As and when necessary,"Provide information on earthquakes of magnitude 6.0 or above worldwide, as analyzed by the Hong Kong Observatory",N
+Climate and Weather,Weather warning summary,Hong Kong Observatory,RSS,As and when necessary,Provide a summary of the weather warning(s) in force in Hong Kong,N
+Housing,Land Registry Monthly Statistics,Land Registry,JSON/XLS,Monthly,"The statistics generally relate to land transactions executed up to four weeks prior to their submission for registration, as there is usually a time lag between the execution of deeds and their lodgement for registration.",Y
+Climate and Weather,Locally felt earth tremor report,Hong Kong Observatory,RSS,As and when necessary,Provide reports on earth tremors felt in Hong Kong,N
+Recreation and Culture,5-a-side Hard-surface Soccer Pitches (Free Outdoor Pitches/Courts),Leisure and Cultural Services Department,JSON,As and when necessary,Location of 5-a-side Hard-surface Soccer Pitches (Free Outdoor Pitches/Courts),N
+Commerce and Industry,Free eMail Notification Services,Trade and Industry Department,XML,As and when necessary,Information related to Trade and Industry Department would be delivered through the Free eMail Notification Services.,N
+Commerce and Industry,Annual Earnings and Hours Survey,Census and Statistics Department,XLS,Annual,Annual Earnings and Hours Survey,N
+Recreation and Culture,7-a-side Soccer Pitches (Natural Turf Pitch),Leisure and Cultural Services Department,JSON,As and when necessary,Location of 7-a-side Soccer Pitches (Natural Turf Pitch),N
+Climate and Weather,Weather warning information,Hong Kong Observatory,RSS,As and when necessary,Provide detailed information of weather warning(s) in force,N
+Recreation and Culture,7-a-side Soccer Pitches (Artificial Turf Pitch),Leisure and Cultural Services Department,JSON,As and when necessary,Location of 7-a-side Soccer Pitches (Artificial Turf Pitch),N
+Recreation and Culture,11-a-side Soccer Pitches (Natural Turf Pitch),Leisure and Cultural Services Department,JSON,As and when necessary,Location of 11-a-side Soccer Pitches (Natural Turf Pitch),N
+Employment and Labour,Salaries and Employee Benefits Statistics - Managerial and Professional Employees (Excluding Top Management),Census and Statistics Department,XLS/XML,Annual,Salaries and Employee Benefits Statistics - Managerial and Professional Employees (Excluding Top Management),N
+Employment and Labour,Wage and Payroll Statistics,Census and Statistics Department,XLS/XML,Quarterly,Wage and Payroll Statistics,N
+Employment and Labour,Average Daily Wages of Workers Engaged in Public Sector Construction Projects as Reported by Main Contractors,Census and Statistics Department,XLS/XML,Monthly,Average Daily Wages of Workers Engaged in Public Sector Construction Projects as Reported by Main Contractors,N
+Population,Tertiary Planning Unit and Street Block / Village Cluster Boundaries Adopted in the 2016 Population By-census,Planning Department,,Every five year,"TERTIARY PLANNING UNIT
+
+The Tertiary Planning Unit (TPU) is a geographic reference system demarcated by the Planning Department for the territory of Hong Kong.  The whole territory of Hong Kong is divided into a number of TPUs.  Each of the TPU is...",N
+Finance,Annual Statistics for General Business 2014,Insurance Authority,XLS/XLSX,Annually,Annual Statistics for General Business 2014,N
+Finance,Annual Statistics for General Business 2015,Insurance Authority,XLS/XLSX,Annually,Annual Statistics for General Business 2015,N
+Population,Statistics on Domestic Households,Census and Statistics Department,XLS,Quarterly,Statistics on Domestic Households,N
+Population,Projections of Population Distribution 2015-2024,Planning Department,XLS,As and when necessary,Projections of Population Distribution 2015-2024 Report and Statistical Tables.,N
+Finance,Annual Statistics for General Business 2013,Insurance Authority,XLS,Annually,Annual Statistics for General Business 2013,N
+Finance,Annual Statistics for General Business 2011,Insurance Authority,XLS,Annually,Annual Statistics for General Business 2011,N
+Recreation and Culture,7-a-side Hard-surface Soccer Pitches (Free Outdoor Pitches/Courts),Leisure and Cultural Services Department,JSON,As and when necessary,Location of 7-a-side Hard-surface Soccer Pitches (Free Outdoor Pitches/Courts),N
+Recreation and Culture,Baseball Pitches (Natural Turf Pitch),Leisure and Cultural Services Department,JSON,As and when necessary,Location of Baseball Pitches (Natural Turf Pitch),N
+Employment and Labour,Youth.gov.hk Gov Job video channel,Efficiency Office,XML,As and when necessary,The Gov Job video channel of Youth.gov.hk introduces different government posts with useful interview tips through short videos.  This allows youths applying for different government posts to understand more about the posts.,N
+Population,Poverty Situation,Census and Statistics Department,XLS,Annual/ Ad hoc,Poverty Situation,N
+Development,Exhibition gallery of government building projects,Architectural Services Department,JPG,Quarterly,Information and images of selected government building projects since 2002,N
+Finance,"Balance of Payments, International Investment Position and External Debt Statistics of Hong Kong",Census and Statistics Department,XLS/XML,Quarterly,"Balance of Payments, International Investment Position and External Debt Statistics of Hong Kong",N
+Finance,Annual Statistics for General Business 2012,Insurance Authority,XLS,Annually,Annual Statistics for General Business 2012,N
+Finance,Annual Statistics for Long Term Business 2016,Insurance Authority,XLS/XLSX,Annually,Annual Statistics for Long Term Business 2016,Y
+Population,Population and Household Statistics Analysed by District Council District,Census and Statistics Department,XML,Annual,Population and Household Statistics Analysed by District Council District,N
+Finance,Annual Statistics for Long Term Business 2011,Insurance Authority,XLS,Annually,Annual Statistics for Long Term Business 2011,Y
+Finance,Application form for inclusion in the GPA Invitation Lists for revenue contracts,Government Property Agency,XLSX,As and when necessary,Application form for inclusion in the GPA Invitation Lists for revenue contracts,Y
+Finance,Annual Statistics for General Business 2010,Insurance Authority,XLS,Annually,Annual Statistics for General Business 2010,N
+Finance,Annual Statistics for Long Term Business 2009,Insurance Authority,XLS,Annually,Annual Statistics for Long Term Business 2009,Y
+Finance,Award of Contract of GPA,Government Property Agency,XLSX,As and when necessary,Award of Contract of GPA,N
+Finance,Annual Statistics for Long Term Business 2015,Insurance Authority,XLS/XLSX,Annually,Annual Statistics for Long Term Business 2015,Y
+Finance,Annual Statistics for Long Term Business 2014,Insurance Authority,XLS,Annually,Annual Statistics for Long Term Business 2014,Y
+Finance,Gross Domestic Product (GDP) by economic activity,Census and Statistics Department,XLS/XML,Quarterly,Gross Domestic Product (GDP) by economic activity,N
+Finance,Annual Statistics for Long Term Business 2008,Insurance Authority,XLS,Annually,Annual Statistics for Long Term Business 2008,Y
+Finance,Annual Statistics for Long Term Business 2007,Insurance Authority,XLS,Annually,Annual Statistics for Long Term Business 2007,N
+Finance,Government Properties to Let,Government Property Agency,XLSX,As and when necessary,Government Properties to Let,N
+Finance,External Direct Investment Statistics of Hong Kong,Census and Statistics Department,XLS,Quarterly,External Direct Investment Statistics of Hong Kong,N
+Finance,Exchange Rates,Census and Statistics Department,XLS,Monthly,Exchange Rates,N
+Finance,Feature Articles on Finance,Census and Statistics Department,CSV/XLS,Ad hoc,Feature Articles on Finance,N
+Finance,Annual Statistics for Long Term Business 2010,Insurance Authority,XLS,Annually,Annual Statistics for Long Term Business 2010,Y
+Finance,Annual Statistics for Long Term Business 2013,Insurance Authority,XLS,Annually,Annual Statistics for Long Term Business 2013,Y
+Finance,Annual Statistics for Long Term Business 2012,Insurance Authority,XLS,Annually,Annual Statistics for Long Term Business 2012,Y
+Finance,"Earnings and Profits Tax － Demand Notes Issued, Tax Assessed and Collections",Inland Revenue Department,XLS,Every 1 year,"Earnings and Profits Tax － Demand Notes Issued, Tax Assessed and Collections",N
+Finance,Environmental Reports,Government Property Agency,XLSX,As and when necessary,Environmental Reports,Y
+Finance,Data related to Accounts of the Government (Cash-based),Treasury,CSV,Annually,Data related to Accounts of the Government (Cash-based),N
+Finance,Data related to Accrual-based Consolidated Financial Statements of the Government,Treasury,CSV,Annually,Data related to Accrual-based Consolidated Financial Statements of the Government,N
+Finance,Earnings and Profits Tax － Tax Assessed and Collections,Inland Revenue Department,XLS,Every 1 year,Tax Assessed and Collections for the year ended 31 March 2015,N
+Finance,Effective Exchange Rate Indices for Hong Kong Dollar,Census and Statistics Department,XLS,Monthly,Effective Exchange Rate Indices for Hong Kong Dollar,N
+Finance,Government Revenue and Expenditure,Census and Statistics Department,XLS,Quarterly/ Annual,Government Revenue and Expenditure,N
+Finance,Data related to Estimates of the Government,Financial Services and the Treasury Bureau,CSV/ZIP,Annually,Data related to Estimates of the Government,N
+Finance,Gross Domestic Product,Census and Statistics Department,XLS/XML,Quarterly,Gross Domestic Product,N
+Finance,Customs Statistics on Revenue Collection,Customs and Excise Department,XLSX,Annually,Statistics on revenue collection by the Customs and Excise Department,N
+Finance,Controlling Officer's Environmental Report 2016,Official Receiver's Office,XML,Once a year,Controlling Officer's Environmental Report 2016,N
+Finance,Business Registration Statistics,Inland Revenue Department,XLS,Every 1 year,Business Registration Statistics,N
+Finance,Business Registration Fee and Levy Table,Inland Revenue Department,XLS,As and when necessary,Business Registration Fee and Levy Table,N
+Finance,Quotation Notices,Government Property Agency,XLSX,As and when necessary,Quotation Notices,N
+Finance,Statistical Data on Charges/Memorandum of Discharge Delivered for Registration,Companies Registry,XLS,Monthly,Statistical Data on Charges/Memorandum of Discharge Delivered for Registration,Y
+Finance,Replies to Questions raised by Members of Finance Committee (GPA),Government Property Agency,XLSX,As and when necessary,Replies to Questions raised by Members of Finance Committee (GPA),Y
+Finance,Stamp Duty Collections and Stamp Office Activities,Inland Revenue Department,XLS,Every 1 year,Stamp Duty Collections and Stamp Office Activities,N
+Finance,Quarterly Release of Provisional Statistics for Long Term Business 2017,Insurance Authority,XLS,Quarterly,Quarterly Release of Provisional Statistics for Long Term Business 2017,N
+Finance,Quarterly Release of Provisional Statistics for General Business 2017,Insurance Authority,XLS/XLSX,Quarterly,Quarterly Release of Provisional Statistics for General Business 2017,N
+Finance,Quarterly Release of Provisional Statistics for Long Term Business 2015,Insurance Authority,XLS,Quarterly,Quarterly Release of Provisional Statistics for Long Term Business 2015,N
+Finance,Quarterly Release of Provisional Statistics for General Business 2016,Insurance Authority,XLS/XLSX,Quarterly,Quarterly Release of Provisional Statistics for General Business 2016,N
+Finance,Quarterly Release of Provisional Statistics for General Business 2015,Insurance Authority,XLS/XLSX,Quarterly,Quarterly Release of Provisional Statistics for General Business 2015,N
+Finance,Corporations － Profits Tax Contributions from Various Business Sectors,Inland Revenue Department,XLS,Every 1 year,Corporations － Profits Tax Contributions from Various Business Sectors,N
+Finance,Quarterly Release of Provisional Statistics for Long Term Business 2016,Insurance Authority,XLS,Quarterly,Quarterly Release of Provisional Statistics for Long Term Business 2016,N
+Finance,Betting Duty Collections,Inland Revenue Department,XLS,Every 1 year,Betting Duty Collections,N
+Finance,"Statistics on Currency, Money Supply and Interest Rates",Census and Statistics Department,XLS,Monthly,"Statistics on Currency, Money Supply and Interest Rates",N
+Finance,Property Statistics,Inland Revenue Department,XLS,Every 1 year,Property Statistics,N
+Finance,Unincorporated Businesses － Profits Tax Contributions from Various Business Sectors,Inland Revenue Department,XLS,Every 1 year,"Unincorporated Businesses － Profits Tax Contributions from Various Business Sectors
+Corporations － Profits Tax Contributions from Various Business Sectors",N
+Finance,"Gross National Income (GNI), real Gross National Income (RGNI) , per capita GNI, per capita RGNI and External primary income flows (EPIF)",Census and Statistics Department,XLS/XML,Quarterly,"Gross National Income (GNI), real Gross National Income (RGNI) , per capita GNI, per capita RGNI and External primary income flows (EPIF)",N
+Finance,Annual Statistics for Long Term Business 2006,Insurance Authority,XLS,Annually,Annual Statistics for Long Term Business 2006,N
+Finance,Tender Notices,Government Property Agency,XLSX,As and when necessary,Tender Notices,N
+Finance,Surplus Government Accommodation,Government Property Agency,XLSX,As and when necessary,Surplus Government Accommodation,N
+Finance,Statistical Data on Registered Non-Hong Kong Companies,Companies Registry,XLS,Monthly,Statistical Data on Registered Non-Hong Kong Companies,Y
+Finance,Property Management Services Contracts,Government Property Agency,XLSX,As and when necessary,Property Management Services Contracts,N
+Finance,Statistics Data on Searches on Image Records of Documents,Companies Registry,XLS,Monthly,Statistics Data on Searches on Image Records of Documents,Y
+Finance,Statistics Data on Prosecution,Companies Registry,XLS,Monthly,Statistics Data on Prosecution,Y
+Finance,Press Releases of GPA,Government Property Agency,XLSX,As and when necessary,Press Releases of GPA,Y
+Finance,Particulars of Insurers,Insurance Authority,XLSX,As and when necessary,Particulars of Insurers,N
+Finance,Statistical Data on Dissolution,Companies Registry,XLS,Monthly,Statistical Data on Dissolution,Y
+Finance,Statistical Data on Liquidations,Companies Registry,XLS,Monthly,Statistical Data on Liquidations,Y
+Finance,Statistical Data on Local Companies that have Remained Registered in the Companies Register,Companies Registry,XLS,Monthly,Statistical Data on Local Companies that have Remained Registered in the Companies Register,Y
+Finance,Statistical Data on Local Companies Incorporated,Companies Registry,XLS,Monthly,Statistical Data on Local Companies Incorporated,Y
+Finance,Statistics,Official Receiver's Office,XLS,Once a month,Statistics,Y
+Finance,Statistical Data on Documents Delivered for Registration,Companies Registry,XLS,Monthly,Statistical Data on Documents Delivered for Registration,Y
+Finance,Particulars of Insurance Brokers,Insurance Authority,,As and when necessary,Particulars of Insurance Brokers,N
+Finance,List of third parties appointed by licensed money lenders in relation to the granting of loans,Companies Registry,XLS,Twice daily,List of third parties appointed by licensed money lenders in relation to the granting of loans,Y
+Finance,List of Non-Compliance with Directions to Change Name/Replacement of Company Names by Company Registration Numbers,Companies Registry,XLS,Monthly,List of Non-Compliance with Directions to Change Name/Replacement of Company Names by Company Registration Numbers,Y
+Finance,Licensing of Money Lenders,Companies Registry,XLS,Monthly,Licensing of Money Lenders,Y
+Finance,List of Newly Incorporated/Registered Companies and Companies which have changed Names,Companies Registry,XLS,Weekly,List of Newly Incorporated/Registered Companies and Companies which have changed Names,N
+Finance,Annual Statistics for Long Term Business 2003,Insurance Authority,XLS,Annually,Annual Statistics for Long Term Business 2003,N
+Finance,Annual Statistics for Long Term Business 2005,Insurance Authority,XLS,Annually,Annual Statistics for Long Term Business 2005,N
+Finance,Annual Statistics for General Business 2007,Insurance Authority,XLS,Annually,Annual Statistics for General Business 2007,N
+Finance,Annual Statistics for Long Term Business 2004,Insurance Authority,XLS,Annually,Annual Statistics for Long Term Business 2004,N
+Finance,Annual Statistics for Long Term Business 2001,Insurance Authority,XLS,Annually,Annual Statistics for Long Term Business 2001,N
+Finance,Annual Statistics for General Business 2016,Insurance Authority,XLSX,Annually,Annual Statistics for General Business 2016,N
+Finance,Annual Statistics for Long Term Business 2002,Insurance Authority,XLS,Annually,Annual Statistics for Long Term Business 2002,N
+Finance,Annual Statistics for General Business 2006,Insurance Authority,XLS,Annually,Annual Statistics for General Business 2006,N
+Finance,Annual Statistics for General Business 2004,Insurance Authority,XLS,Annually,Annual Statistics for General Business 2004,N
+Finance,Annual Statistics for General Business 2009,Insurance Authority,XLS,Annually,Annual Statistics for General Business 2009,N
+Population,2016 Population By-census – Build Your Census Tables,Census and Statistics Department,XLSX,As and when necessary,"An interactive data dissemination service facilitating data users to build their own statistical tables and charts on results of the 2016 Population By-census, the 2011 Population Census and the 2006 Population By-census anytime and anywhere over the Internet",N
+Finance,Annual Statistics for General Business 2008,Insurance Authority,XLS,Annually,Annual Statistics for General Business 2008,N
+Population,Hong Kong Population,Census and Statistics Department,XLS,Half-yearly/ Annual,Hong Kong Population,N
+Population,Feature Articles on Population,Census and Statistics Department,CSV/XLS,Ad hoc,Feature Articles on Population,N
+Social Welfare,List of Service Units Providing Fee-waiving Subsidies under Enhanced ASCP,Social Welfare Department,CSV,As necessary,"List of Service Units Providing Fee-waiving Subsidies under Enhanced ASCP
+
+The dataset provides information of name of agency/ centre, serving district, address and telephone number
+
+https://www.swd.gov.hk/en/index/site_pubsvc/page_young/sub_ascp/
+",N
+Transport,Road Network,Transport Department,CSV/GML/MDB/XML/XSD,Every six months,"Road network data in Hong Kong
+
+You will download total of 59 files containing different road network information. Please refer to the schema for more information about the content and relationship of these files.",N
+Finance,Annual Statistics for General Business 2005,Insurance Authority,XLS,Annually,Annual Statistics for General Business 2005,N
+Transport,Real-time parking vacancy data in Kowloon East,Development Bureau,JSON,Realtime,"The Energizing Kowloon East Office (EKEO) is inviting carpark operators in Kowloon East to open their real-time parking vacancy data and basic carpark information such as location, parking fee, opening hour, height restriction, etc.  You can access...",Y
+Transport,Real-Time Parking Vacancy Data (One-Stop Version),Office of the Government Chief Information Officer,JSON,Real-Time,The API integrates the real-time parking vacancy data and basic car park information provided by (i) Transport Department and (2)  the Energizing Kowloon East Office (EKEO). The data are open up by participating car park operators including their...,Y
+Transport,Vessel arrivals and departures,Marine Department,XML,Every 15 minutes during office hours,Arrival and departure information of ocean-going vessels,N
+Transport,No. of Total Flights handled,Civil Aviation Department,CSV,Monthly,No. of Total Flights handled,Y
+Finance,Annual Statistics for General Business 2001,Insurance Authority,XLS,Annually,Annual Statistics for General Business 2001,N
+Finance,Annual Statistics for General Business 2003,Insurance Authority,XLS,Annually,Annual Statistics for General Business 2003,N
+Finance,Annual Statistics for General Business 2002,Insurance Authority,XLS,Annually,Annual Statistics for General Business 2002,N
+Transport,Real-time parking vacancy data,Transport Department,JSON,Real-Time,"The Transport Department is cooperating with car park operators to open up their real-time parking vacancy data and basic car park information such as location, address, height restriction, etc. You can access the data through below JSON files or...",N
+Social Welfare,List of Social Service Centre Service,Social Welfare Department,CSV,As necessary,"List of Social Service Centre Service
+
+The dataset provides information of name of agency/centre, address, telephone number, fax number and email.  
+
+https://www.swd.gov.hk/en/index/site_pubsvc/page_offdr/sub_communityb/id_SRACP/",N
+Transport,Vessel Traffic Management System Report,Marine Department,XML,Every 15 minutes during office hours,Arrival and departure information of ocean-going and non-convention vessels,N
+Recreation and Culture,Roller Skating Rinks,Leisure and Cultural Services Department,JSON,As and when necessary,Location of Roller Skating Rinks,N
+Social Welfare,List of Youth Outreaching Social Work Teams,Social Welfare Department,CSV,As necessary,"List of Youth Outreaching Social Work Teams 
+
+The dataset provides information of name of agency/centre, serving district, address, telephone numbers, fax numbers and email. ...",N
+Recreation and Culture,Roller Hockey Court (Free Outdoor Pitches/Courts),Leisure and Cultural Services Department,JSON,As and when necessary,Location of Roller Hockey Court (Free Outdoor Pitches/Courts),N
+Social Welfare,Partnership Fund for the Disadvantaged,Social Welfare Department,CSV,As necessary,"Partnership Fund for the Disadvantaged
+
+The dataset provides introduction, objectives  eligibility and website of Partnership Fund for the Disadvantaged and address, telephone number, fax number and office hours of the Secretariat of Partnership Fund...",N
+Recreation and Culture,Rugby Pitches (Artificial Turf Pitch),Leisure and Cultural Services Department,JSON,As and when necessary,Location of Rugby Pitches (Artificial Turf Pitch),N
+Recreation and Culture,Road Safety Towns,Leisure and Cultural Services Department,JSON,As and when necessary,Location of Road Safety Towns,N
+Recreation and Culture,Play Equipment for All Children,Leisure and Cultural Services Department,JSON,As and when necessary,Location of Play Equipment for All Children,N
+Recreation and Culture,New Additions of Hong Kong Public Libraries,Leisure and Cultural Services Department,RSS,Every Week,New Additions of Hong Kong Public Libraries,N
+Recreation and Culture,Water Dispensers in LCSD venues,Leisure and Cultural Services Department,CSV,Yearly,"Public can refer to the list of water dispensers in the LCSD venues includes the name of the venues, location of water dispensers, type of water dispensers, number of water dispensers, opening hours of the venues and water temperature.",N
+Recreation and Culture,Volleyball Courts (Free Outdoor Pitches/Courts),Leisure and Cultural Services Department,JSON,As and when necessary,Location of Volleyball Courts (Free Outdoor Pitches/Courts),N
+Recreation and Culture,Venue,Leisure and Cultural Services Department,JSON,As and when necessary,"Addresses, Phone number and Opening hour of Leisure & Cultural Services Department Venues",N
+Recreation and Culture,Tennis Practice Courts (Free Outdoor Pitches/Courts),Leisure and Cultural Services Department,JSON,As and when necessary,Location of Tennis Practice Courts (Free Outdoor Pitches/Courts),N
+Recreation and Culture,Open Air Theatres,Leisure and Cultural Services Department,JSON,As and when necessary,Location of Open Air Theatres,N
+Recreation and Culture,Tennis Courts,Leisure and Cultural Services Department,JSON,As and when necessary,Location of Tennis Courts,N
+Recreation and Culture,Statistics Reports,Leisure and Cultural Services Department,CSV,Yearly,Statistics Report on LCSD public facilities and services.,N
+Recreation and Culture,Outdoor Table Tennis Tables,Leisure and Cultural Services Department,JSON,As and when necessary,Location of Outdoor Table Tennis Tables,N
+Recreation and Culture,RSS Feeds from Hong Kong Public Libraries Portal,Leisure and Cultural Services Department,RSS,Every Week,RSS Feeds from Hong Kong Public Libraries Portal,N
+Social Welfare,Subentions for Recurrent Expenditure by Programme 2017-18 (Provisional Amount),Social Welfare Department,CSV,Annually,"In 2017-18, provisional subventions to NGOs for financing about 2,710 agreement service units amount to $15,126.1 million.  Distribution of the provisional subventions to different service programmes. 
+
+Information Including: Services, Allocation (By...",N
+Recreation and Culture,Skateparks,Leisure and Cultural Services Department,JSON,As and when necessary,Location of Skateparks,N
+Recreation and Culture,Sports Centres,Leisure and Cultural Services Department,JSON,As and when necessary,Location of Sports Centres,N
+Recreation and Culture,Model Car Play Area,Leisure and Cultural Services Department,JSON,As and when necessary,Location of Model Car Play Area,N
+Recreation and Culture,Skateboard Ground,Leisure and Cultural Services Department,JSON,As and when necessary,Location of Skateboard Ground,N
+Recreation and Culture,Netball Courts (Free Outdoor Pitches/Courts),Leisure and Cultural Services Department,JSON,As and when necessary,Location of Netball Courts (Free Outdoor Pitches/Courts),N
+Recreation and Culture,Leisure Link Self-service Kiosk,Leisure and Cultural Services Department,XLSX,As and when necessary,Location of Leisure Link Self-service Kiosk,Y
+Recreation and Culture,Hockey Grounds (Artificial Turf Pitch),Leisure and Cultural Services Department,JSON,As and when necessary,Location of Hockey Grounds (Artificial Turf Pitch),N
+Recreation and Culture,Model Boat Pools,Leisure and Cultural Services Department,JSON,As and when necessary,Location of Model Boat Pools,N
+Recreation and Culture,Handball Courts (Free Outdoor Pitches/Courts),Leisure and Cultural Services Department,JSON,As and when necessary,Location of Handball Courts (Free Outdoor Pitches/Courts),N
+Recreation and Culture,Fitness Rooms,Leisure and Cultural Services Department,JSON,As and when necessary,Information of Fitness Rooms,N
+Recreation and Culture,Dog Gardens/Pet Gardens,Leisure and Cultural Services Department,JSON,As and when necessary,Location of Dog Gardens/Pet Gardens,N
+Transport,Tramways Tram Stops,"Hong Kong Tramways, Limited",CSV,As and when necessary,The list of tram stops of Hong Kong Tramways,Y
+Transport,Tramways Main Routes,"Hong Kong Tramways, Limited",CSV,As and when necessary,The list of main routes operated by Hong Kong Tramways,Y
+Transport,Traffic speed map,Transport Department,XML,Every 2 minutes,"Average traffic speed of major roads in Hong Kong.
+
+HTTP method: GET 
+
+Request path: http://resource.data.one.gov.hk/td/speedmap.xml 
+
+Parameters: No parameter required 
+
+Note: 
+HTTP status 301 or 302 may be returned. In this case, redirection should...",N
+Recreation and Culture,Rugby Pitches (Natural Turf Pitch),Leisure and Cultural Services Department,JSON,As and when necessary,Location of Rugby Pitches (Natural Turf Pitch),N
+Recreation and Culture,Gateball Courts (Free Outdoor Pitches/Courts),Leisure and Cultural Services Department,JSON,As and when necessary,Location of Gateball Courts (Free Outdoor Pitches/Courts),N
+Recreation and Culture,Sports Grounds,Leisure and Cultural Services Department,JSON,As and when necessary,Location of Sports Grounds,N
+Recreation and Culture,Jogging Tracks and Fitness Trails,Leisure and Cultural Services Department,JSON,As and when necessary,Location of Jogging Tracks and Fitness Trails,N
+Transport,Traffic Aids Drawings,Transport Department,GML/MDB/XML/XSD,Every six months,"Traffic Aids Drawings data in Hong Kong
+
+You will download total of 57 files containing different traffic aids drawings information. Please refer to the schema for more information about the content and relationship of these files.",N
+Transport,Speed map panels,Transport Department,CSV/PNG,Every 2 minutes,"Images of speed map panels at five locations in the New Territories indicating the latest traffic conditions.
+
+Note: These datasets are real-time images of speed map panels located at five locations near major roads in the New Territories for...",N
+Transport,Special traffic news,Transport Department,XML,As and when necessary,"The latest special traffic and transportation arrangements through the territory in times of traffic incidents.
+
+HTTP method: GET
+ 
+Request path: http://resource.data.one.gov.hk/td/en/specialtrafficnews.xml
+
+Parameters: No parameter required...",N
+Transport,Smart Device Locations for Elderly Using Signalised Pedestrian Crossing,Transport Department,CSV/XLSX,As and when necessary,List of Smart Device Locations for Elderly Using Signalised Pedestrian Crossing.,N
+Transport,Shipping directory of Hong Kong,Marine Department,CSV,Every 15 minutes during office hours,"Provides the names, addresses, contact numbers, etc. of companies engaged in shipping and related industries in Hong Kong",N
+Transport,The Code on Access to Information - Disclosure Log,Transport Department,CSV/XLSX,Every 3 months,"The disclosure log provides summary descriptions of the nature of information requested and released under the Code on Access to Information (""the Code"") by this Department. The disclosure log will be updated on a quarterly basis. If any member of the...",N
+Transport,Taxi Call Stations,Transport Department,CSV/XLSX,As and when necessary,Telephone List of Taxi Call Stations.,N
+Population,2016 Population By-census - Main Tables (Simplified Chinese),Census and Statistics Department,XLSX,As and when necessary,A set of statistical tables presenting the results of the 2016 Population By-census on various data topics,Y
+Transport,Traffic Flow Census,Transport Department,GML/MDB/XSD/ZIP,Yearly,"Traffic Flow Census data in Hong Kong
+
+You will download total of 10 files containing different traffic flow census information. Please refer to the schema for more information about the content and relationship of these files.",N
+Transport,Seafarers’ Examination Schedule,Marine Department,XML,Every 15 minutes during office hours,Provide forthcoming schedule and seat allocation situation information of Seafarers’ Examination,N
+Miscellaneous,Useful Contact Information,Government Laboratory,CSV,yearly,"Government Laboratory Useful Telephone Numbers and Email Addresses: Analytical and Advisory services Division, Forensic Science Division",Y
+Social Welfare,List of Service Units Providing Fee-waiving Subsidies under ASCP,Social Welfare Department,CSV,As necessary,"List of Service Units Providing Fee-waiving Subsidies under ASCP
+
+The dataset provides information of name of agency/ centre, serving district, address and telephone number
+
+https://www.swd.gov.hk/en/index/site_pubsvc/page_young/sub_ascp/",N
+Transport,Routes and fares of public transport,Transport Department,CSV/MDB,Monthly,"Route and fare information of different means of public transport
+
+You will download total of 34 MDB and CSV files containing different public transport route and fare information. Please refer to the schema for more information about the content and...",Y
+Social Welfare,List of School Social Work Organisations,Social Welfare Department,CSV,As necessary,"List of School Social Work Organisations
+
+The dataset provides information of name of agency/centre, address, telephone number, fax number and email.  
+
+https://www.swd.gov.hk/en/index/site_pubsvc/page_young/sub_schoolsoci/",N
+Social Welfare,List of Probation and Community Service Orders Offices,Social Welfare Department,CSV,As necessary,"List of Probation and Community Service Orders Offices
+ 
+The dataset provides information of name of agency/centre, address, telephone number, fax number and email.  
+
+https://www.swd.gov.hk/en/index/site_pubsvc/page_offdr/sub_communityb/id_PO/",N
+Employment and Labour,"Statistics on labour force, unemployment and underemployment",Census and Statistics Department,XLS,Monthly/ Ad hoc,"Statistics on labour force, unemployment and underemployment",N
+Recreation and Culture,Cycling Tracks and Grounds,Leisure and Cultural Services Department,JSON,As and when necessary,Location of Cycling Tracks and Grounds,N
+Finance,Annual Reports,Government Property Agency,XLSX,As and when necessary,Annual Reports,Y
+Transport,No. of Telecom messages relayed by the AFTN,Civil Aviation Department,CSV,Monthly,No. of Telecom messages relayed by the AFTN,Y
+Recreation and Culture,Details of EventHK information,Office of the Government Chief Information Officer,ICS,As and when necessary,Details of events from various bureaux/departments and organisations disseminated through the one-stop platform of EventHK.,Y
+Population,2016 Population By-census - Main Tables (Traditional Chinese),Census and Statistics Department,XLSX,As and when necessary,A set of statistical tables presenting the results of the 2016 Population By-census on various data topics,Y
+Social Welfare,List of Non-Governmental Organisation - Family Support Networking Teams (NGO-FSNTs),Social Welfare Department,CSV,As necessary,"List of Non-Governmental Organisation - Family Support Networking Teams (NGO-FSNTs)
+
+The dataset provides information of name of agency/ service unit, serving districts, address, telephone number and name of attachment unit. ...",N
+Transport,Monthly Traffic and Transport Digest,Transport Department,XLS,Monthly,"Monthly Traffic and Transport Digest 
+
+Symbols, Rounding of Figures and Abbreviations:[http://www.td.gov.hk/datagovhk/mttd/symbols.pdf](http://www.td.gov.hk/datagovhk/mttd/symbols.pdf)",N
+Miscellaneous,Tar and Nicotine Reports,Government Laboratory,CSV,Yearly,Government Laboratory Tar and Nicotine Reports,Y
+Miscellaneous,Scientific Publications by Staff,Government Laboratory,JSON,Yearly,Scientific Publications by Staff of the Government Laboratory,N
+Transport,Traffic snapshot images,Transport Department,CSV/JPG/XML,Every 2 minutes,"The traffic snapshot images are captured by the closed circuit televisions (CCTV) installed at 183 locations of major roads in Hong Kong for you to visualise the latest traffic conditions.
+
+Response format:
+Method 1:
+JPEG (image size 320 x...",Y
+Miscellaneous,List of GovHK Notifications,Office of the Government Chief Information Officer,JSON,As and when necessary,"List of information and alert notifications from various bureaux/departments disseminated through the one-stop platform of ""GovHK Notifications"".",Y
+Transport,No. of NOTAM processed,Civil Aviation Department,CSV,Monthly,No. of NOTAM processed,Y
+Population,2014-based Territorial Population and Employment Data Matrix (Generalised Version),Planning Department,XLS,Every two to three years,"GENERAL NOTES :
+
+The Territorial Population and Employment Data Matrix (TPEDM) is compiled by the Planning Department (PlanD) and updated regularly in about every two to three years to tie in with the updated population projections. The 2014-based...",N
+Social Welfare,List of Neighbourhood Level Community Development Projects,Social Welfare Department,CSV,As necessary,"List of Neighbourhood Level Community Development Projects
+
+The dataset provides information of name of agency/centre, address, telephone number, fax number and email.
+
+https://www.swd.gov.hk/en/index/site_pubsvc/page_comm/sub_commdevser/id_neighbourh/",N
+Miscellaneous,Thematic Household Survey,Census and Statistics Department,XLS,Ad hoc,Thematic Household Survey,N
+Recreation and Culture,List of EventHK information,Office of the Government Chief Information Officer,JSON,As and when necessary,List of events from various bureaux/departments and organisations disseminated through the one-stop platform of EventHK.,Y
+Social Welfare,List of NGOs receiving respective subvention allocations for 2017-18,Social Welfare Department,CSV,Annually,"List of NGOs receiving respective subvention allocations for 2017-18
+
+Information Including: No., Subvention Mode, NGO Code, NGO Name, Allocation 2016-17, Allocation 2017-18
+
+Grand total for 170 NGOs (2017-18) 13,530,747,973
+Add: PF adjustments...",N
+Transport,"MTR routes, fares and barrier-free facilities",MTR Corporation Limited,CSV,Monthly,"You will download data for MTR routes, fares and barrier-free facilities in CSV format. Please refer to the data dictationary for more information about the content.
+
+Terms of Use: ...",Y
+Social Welfare,List of Integrated Children and Youth Services Centres,Social Welfare Department,CSV,As necessary,"List of Integrated Children and Youth Services Centres
+
+The dataset provides information of name of agency/ centre, serving district, address, telephone number, fax number and email....",N
+Employment and Labour,General Household Survey,Census and Statistics Department,XML,Quarterly,General Household Survey,N
+Social Welfare,List of Counselling Centre for Psychotropic Substance Abusers,Social Welfare Department,CSV,As necessary,"List of Counselling Centres for Psychotropic Substance Abusers
+
+The dataset provides information of name of agency/ centre, serving district, address, telephone number, fax number, email and website. ...",N
+Employment and Labour,Feature Articles on Employment and Labour,Census and Statistics Department,XLS,Ad hoc,Feature Articles on Employment and Labour,N
+Population,2016 Population By-census - District Profiles,Census and Statistics Department,XLSX,As and when necessary,"The summary results of the 2016 Population By-census for individual districts at different geographical levels (i.e. District Council districts, District Council Constituency Areas and Tertiary Planning Units) and for major housing estates",N
+Miscellaneous,Voter Registration Statistics,Registration and Electoral Office,CSV/XLSX,As and when necessary,"Voter Registration Statistics  (Geographical Constituency, Functional Constituency, Election Committee Subsector)",Y
+Recreation and Culture,Cultural Programmes,Leisure and Cultural Services Department,XML,Daily,Current and forthcoming cultural programmes information.,Y
+Recreation and Culture,Cricket Ground (Natural Turf Pitch),Leisure and Cultural Services Department,JSON,As and when necessary,Location of Cricket Ground (Natural Turf Pitch),N
+Recreation and Culture,Cricket Ground (Artificial Turf Pitch),Leisure and Cultural Services Department,JSON,As and when necessary,Location of Cricket Ground (Artificial Turf Pitch),N
+Recreation and Culture,Cricket Ground (Free Outdoor Pitches/Courts),Leisure and Cultural Services Department,JSON,As and when necessary,Location of Cricket Ground (Free Outdoor Pitches/Courts),N
+Finance,Analysis of Salaries Tax Assessments by Income Group,Inland Revenue Department,XLS,Every 1 year,Analysis of Salaries Tax Assessments by Income Group,N
+Employment and Labour,Employment and Vacancies,Census and Statistics Department,XLS/XML,Quarterly,Employment and Vacancies,N
+Transport,Journey time indicators,Transport Department,XML,Every 2 minutes,"Average journey time for major roads in Hong Kong (including cross-harbour tunnels).
+
+Request path: http://resource.data.one.gov.hk/td/journeytime.xml 
+
+Parameters: No parameter required 
+
+Note: 
+HTTP status 301 or 302 may be returned. In this case,...",N
+Finance,"Allowances, Deductions and Tax Rate Table of Salaries Tax / Personal Assessment",Inland Revenue Department,XLS,As and when necessary,"Allowances, Deductions and Tax Rate Table of Salaries Tax / Personal Assessment",N
+Finance,Analysis of Allowances by Income Group,Inland Revenue Department,XLS,Every 1 year,Analysis of Allowances by Income Group,Y
+Miscellaneous,Feature Articles,Census and Statistics Department,XLS,Ad hoc,Feature Articles,N
+Transport,Junction Blacksite List,Transport Department,XLS,Quarterly,The tables below show the junction blacksite list.,N
+Miscellaneous,Highlights of Press Releases,Census and Statistics Department,RSS,As and when necessary,Highlights of Press Releases,N
+Transport,Hong Kong Tidal Stream Prediction,Marine Department,CSV,Daily,Provides 11 days tidal stream magnitude and direction prediction results in the waters of Hong Kong which includes the results of 8 days in advance of and 2 days before the current date.,N
+Miscellaneous,Election Results,Registration and Electoral Office,XLS/XLSX,As and when necessary,Election Results,Y
+Social Welfare,List of Community Support Service Scheme (CSSS),Social Welfare Department,CSV,As necessary,"List of Community Support Service Scheme (CSSS)
+
+The dataset provides information of name of agency/ centre, serving district, address, telephone number, fax number, email and...",N
+Social Welfare,List of Community Centres,Social Welfare Department,CSV,As necessary,"List of Communtiy Centres
+
+The dataset provides information of name of agency/centre, address and telephone number.
+
+https://www.swd.gov.hk/en/index/site_pubsvc/page_comm/sub_commdevser/id_commcenter2/",N
+Miscellaneous,General Statistical Digests,Census and Statistics Department,XLS,Monthly/ Annual,General Statistical Digests,N
+Population,2011 Population Census - District Profiles,Census and Statistics Department,XLSX,As and when necessary,"Fact sheets presenting the summary results of the 2011 Population Census for individual districts at different geographical levels (i.e. District Council districts, District Council Constituency Areas and Tertiary Planning Units) and for major housing estates",N
+Social Welfare,List of Children and Youth Centres,Social Welfare Department,CSV,As necessary,"List of Children and Youth Centres
+
+The dataset provides information of name of agency/ centre, serving district, address, telephone number, fax number and email. 
+
+https://www.swd.gov.hk/en/index/site_pubsvc/page_young/sub_centreserv/id_childrenan/",N
+Recreation and Culture,Basketball Courts (Free Outdoor Pitches/Courts),Leisure and Cultural Services Department,JSON,As and when necessary,Location of Basketball Courts (Free Outdoor Pitches/Courts),N
+Finance,"Accessibility of Government premises, facilities and services",Government Property Agency,XLSX,As and when necessary,"Accessibility of Government premises, facilities and services",Y
+Transport,Hong Kong Shipping Statistics,Census and Statistics Department,XLS/XML,Quarterly,Hong Kong Shipping Statistics,N
+Transport,Feature Articles on Transport,Census and Statistics Department,XLS,Ad hoc,Feature Articles on Transport,N
+Population,2011 Population Census - Main Tables,Census and Statistics Department,XLSX,As and when necessary,A set of statistical tables presenting the results of the 2011 Population Census on various data topics,Y
+Transport,Electric vehicle charging station locations,CLP Power Hong Kong Limited,XML,As and when necessary,"This API (in XML format) provides location data (including GPS data, address, etc.) of electric vehicle charging stations in Hong Kong. Please refer to the data dictionary for detail.",Y
+Transport,Distribution of metered parking spaces at different districts in Hong Kong,Transport Department,XLSX,Twice per year,The tables below show the distribution of metered parking spaces at different districts in Hong Kong.,Y
+Recreation and Culture,Beach Volleyball Courts,Leisure and Cultural Services Department,JSON,As and when necessary,Location of Beach Volleyball Courts,N
+Miscellaneous,Details of GovHK Notifications,Office of the Government Chief Information Officer,JSON,As and when necessary,"Detailed information and alert notifications from various bureaux/departments disseminated through the one-stop platform of ""GovHK Notifications"".",Y
+Social Welfare,List of Centres for Drug Counselling,Social Welfare Department,CSV,As necessary,"List of Centres for Drug Counselling 
+
+The dataset provides information of name of agency/ centre, address, telephone number., fax number, email and website.  
+
+https://www.swd.gov.hk/en/index/site_pubsvc/page_young/sub_serdrugabuser/id_587/",N
+Recreation and Culture,Community Recreation and Sports Programmes,Leisure and Cultural Services Department,JSON,Daily,Information on leisure activities to be held one and a half months later uploaded on the 15th of each month (e.g. information on activities in July will be made available on 15 May).,N
+Social Welfare,List of Care and Support Networking Team,Social Welfare Department,CSV,As necessary,"List of Care and Support Networking Team
+
+The dataset provides information of name of agency/centre, address, telephone number, fax number and email.
+
+https://www.swd.gov.hk/en/index/site_pubsvc/page_comm/sub_commdevser/id_careandsup/",N
+Recreation and Culture,Badmintion Courts (Free Outdoor Pitches/Courts),Leisure and Cultural Services Department,JSON,As and when necessary,Location of Badmintion Courts (Free Outdoor Pitches/Courts),N
+Recreation and Culture,Archery Ranges,Leisure and Cultural Services Department,JSON,As and when necessary,Location of Archery Ranges,N
+Social Welfare,Hotline Service for Youth at Risk,Social Welfare Department,CSV,As necessary,"Hotline Service for Youth at Risk
+
+The dataset provides information of name of agency/ centre, serving district, address, telephone number, fax number, email and website.  
+
+https://www.swd.gov.hk/en/index/site_pubsvc/page_young/sub_seryouthrisk/id_hotlineser/",N
+Recreation and Culture,Barbecue Sites,Leisure and Cultural Services Department,JSON,As and when necessary,Location of Barbecue Sites,N
+Social Welfare,List of Agencies providing Services for Young Night Drifters,Social Welfare Department,CSV,As necessary,"List of Agencies providing Services for Young Night Drifters
+
+The dataset provides information of name of agency/centre, serving district, address, telephone number, fax number and email. ...",N
+Social Welfare,Geo-referenced data of Social Services Units,Social Welfare Department,CSV,Social Welfare Department:  once a year,Geo-referenced data of  Social Welfare Services,N
+Transport,Details of HK Electric EV charging stations,"The Hongkong Electric Company, Limited",CSV,As and when necessary,"Provide the location data and service detail of HK Electric EV charging stations. The CSV file contains carpark name, district, addresse, level/ floor, parking bay no., service provided and GPS data of the charging station.",Y
+Transport,Customs Statistics on Control Points Passenger Throughput,Customs and Excise Department,XLSX,Annually,Statistics on passenger throughput at different control points of the Customs and Excise Department,N
+Transport,Customs Statistics on Land Boundary Control Points Vehicular Throughput,Customs and Excise Department,XLSX,Annually,Statistics on vehicular throughput at different land boundary control points of the Customs and Excise Department,N
+Recreation and Culture,A Catalogue of Books Printed in Hong Kong,Leisure and Cultural Services Department,XLS,Quarterly,A Catalogue of Books Printed in Hong Kong,N
+Social Welfare,Basic Information and Service Quality Information of Residential Care Homes for the Elderly,Social Welfare Department,XML,Daily,Basic Information and Service Quality Information of Residential Care Homes for the Elderly,N
+Commerce and Industry,Estimated power consumption for general office appliances,"The Hongkong Electric Company, Limited",CSV,As and when necessary,Provide the estimated power consumption for general office appliances. The CSV file contains the appliance name and estimated power consumption.,Y
+Health,Flu Express's figures data,Department of Health,XLSX,Weekly,"Influenza surveillance data including sentinel surveillance, laboratory surveillance, influenza-like illness outbreak, hospital surveillance and severe influenza case during influenza season",N
+Social Welfare,Feature Articles on Social Welfare,Census and Statistics Department,XLS,Ad hoc,Feature Articles on Social Welfare,N
+Commerce and Industry,Employment and Value added of the Four Key Industries and Other Selected Industries,Census and Statistics Department,XLS,Ad hoc,Employment and Value added of the Four Key Industries and Other Selected Industries,N
+Commerce and Industry,Number of Registrations/Grants in force in Hong Kong,Intellectual Property Department,CSV,Monthly,Number of Registrations/Grants in force in Hong Kong,Y
+Commerce and Industry,Merchandise Trade Statistics Classification,Census and Statistics Department,XLS,Ad hoc,Merchandise Trade Statistics Classification,N
+Transport,Cross-boundary Travel Survey 2015,Planning Department,XLS,About every two years,"The survey report Northbound Southbound 2015  presents the findings of the Cross-boundary Travel Survey 2015, whilst the tables contain detailed statistics of the 2015 and previous rounds of the Surveys.",N
+Commerce and Industry,Interactive Data Dissemination Service for Trade Statistics,Census and Statistics Department,XLS,Monthly,Interactive Data Dissemination Service for Trade Statistics,N
+Commerce and Industry,Merchandise Trade Statistics,Census and Statistics Department,XLS,Monthly,Merchandise Trade Statistics,N
+Commerce and Industry,List of Radio Dealer (Unrestricted) Licensees,Office of the Communications Authority,XLSX,Monthly,List of Radio Dealer (Unrestricted) Licensees,Y
+Health,Lists of licensed Chinese medicines traders,Department of Health,XLSX/XML,As and when necessary,"Lists showing company name, licence number, company address, etc of licensed traders in Retailers & Wholesalers of Chinese herbal medicines, and Manufacturers & Wholesalers of proprietary Chinese medicnes.",Y
+Commerce and Industry,List of Registered Newspapers and Periodicals,"Office for Film, Newspaper and Article Administration",XLS,Bi-Weekly,List of Registered Newspapers and Periodicals,Y
+Commerce and Industry,Feature Articles on Commerce and Industry,Census and Statistics Department,CSV/XLS,Ad hoc,Feature Articles on Commerce and Industry,N
+Commerce and Industry,Ranking of Selected Economies in the World Merchandise Trade,Census and Statistics Department,XLS,Half-yearly,Ranking of Selected Economies in the World Merchandise Trade,N
+Commerce and Industry,Merchandise Trade Index Numbers,Census and Statistics Department,XLS/XML,Monthly,Merchandise Trade Index Numbers,N
+Commerce and Industry,Registered Gas Contractors employing Registered Gas Installers of different classes of Gas Installation Work,Electrical and Mechanical Services Department,XLSX,Monthly,Lists of registered gas contractors under the Gas Safety (Registration of Gas Installers and Gas Contractors) Regulations,Y
+Commerce and Industry,Registered Gas Installers,Electrical and Mechanical Services Department,XLSX,Monthly,Lists of registered gas installers under the Gas Safety (Registration of Gas Installers and Gas Contractors) Regulations,Y
+Commerce and Industry,Registered Escalator Workers,Electrical and Mechanical Services Department,XLSX,As necessary,List of registered escalator workers,Y
+Commerce and Industry,Registered Examiners of Builders' Lifts and Tower Working Platforms,Electrical and Mechanical Services Department,XLSX,Quarterly,Lists of registered examiners / contractors under the Builders' Lifts and Tower Working Platforms (Safety) Ordinance,Y
+Health,Lists of Clinics / Centres of the Department of Health,Department of Health,XLSX,As and when necessary,Lists of Clinics / Centres of the Department of Health,Y
+Commerce and Industry,Key Statistics on Business Performance and Operating Characteristics of the Industrial Sector,Census and Statistics Department,XLS/XML,Annual,Key Statistics on Business Performance and Operating Characteristics of the Industrial Sector,N
+Population,2016 Population By-census - Main Tables (English),Census and Statistics Department,XLSX,As and when necessary,A set of statistical tables presenting the results of the 2016 Population By-census on various data topics,Y
+Health,"Sentinel surveillance  hand, foot and mouth disease data in General Out-patient Clinics / General Practitioners Sentinel Surveillance weekly report",Department of Health,XLSX,Weekly,"This weekly update outlines the data provided by General Out-patient Clinics / General Practitioners participating in the sentinel surveillance of hand, foot and mouth disease.",N
+Population,2001 Population Census - Main Tables,Census and Statistics Department,CSV/XLS,As and when necessary,A set of statistical tables presenting the results of the 2001 Population Census on various data topics,N
+Health,Sentinel surveillance  acute conjunctivitis data in General Out-patient Clinics / General Practitioners Sentinel Surveillance weekly report,Department of Health,XLSX,Weekly,This weekly update outlines the data provided by General Out-patient Clinics / General Practitioners participating in the sentinel surveillance of acute conjunctivitis.,N
+Health,Sentinel surveillance  acute diarrhoeal diseases data in General Out-patient Clinics / General Practitioners Sentinel Surveillance monthly report,Department of Health,XLSX,Monthly,This monthly update outlines the data provided by General Out-patient Clinics / General Practitioners participating in the sentinel surveillance of acute diarrhoeal diseases.,N
+Commerce and Industry,Registered Escalator Contractors,Electrical and Mechanical Services Department,XLSX,As necessary,List of registered escalator contractors,Y
+Commerce and Industry,Registered Escalator Engineers,Electrical and Mechanical Services Department,XLSX,As necessary,List of registered escalator engineers,Y
+Health,Sentinel surveillance  acute diarrhoeal diseases data in General Out-patient Clinics / General Practitioners Sentinel Surveillance weekly report,Department of Health,XLSX,Weekly,This weekly update outlines the data provided by General Out-patient Clinics / General Practitioners participating in the sentinel surveillance of acute diarrhoeal diseases.,N
+Health,Number of screened babies with glucose-6-phosphate dehydrogenase deficiency,Department of Health,CSV/XLSX,Yearly,"1. Number of screened babies (male) with glucose-6-phosphate dehydrogenase deficiency from 1984 to 2016
+2. Number of screened babies (female) with glucose-6-phosphate dehydrogenase deficiency from 1984 to 2016",Y
+Health,Sentinel surveillance  acute conjunctivitis data in General Out-patient Clinics / General Practitioners Sentinel Surveillance monthly report,Department of Health,XLSX,Monthly,This monthly update outlines the data provided by General Out-patient Clinics / General Practitioners participating in the sentinel surveillance of acute conjunctivitis.,N
+Health,Official estimates on immunisation coverage of infants born,Department of Health,CSV,As and when necessary,Official Estimates on Immunisation Coverage of Infants,N
+Health,Number of Private Hospitals,Department of Health,XLSX,As and when necessary,Number of Private Hospitals,N
+Health,Number of screened babies with congenital hypothyroidism,Department of Health,CSV/XLSX,Yearly,Number of screened babies with congenital hypothyroidism from 1984 to 2016,Y
+Health,Number of Nursing Homes,Department of Health,XLSX,As and when necessary,Number of Nursing Homes,N
+Health,Number of babies birth at public hospitals and maternity homes screened with congenital hypothyroidism,Department of Health,CSV/XLSX,Yearly,Number of babies birth at public hospitals and maternity homes screened with congenital hypothyroidism from 1984 to 2016,Y
+Health,Number of Registered Healthcare Professionals,Department of Health,XLSX,As and when necessary,Number of Registered Healthcare Professionals,N
+Health,Number of Hospitals under Correctional Institutions,Department of Health,XLSX,As and when necessary,Number of Hospitals under Correctional Institutions,N
+Health,Tuberculosis death (all forms) and death rate by age group and sex,Department of Health,CSV,Yearly,Tuberculosis death (all forms) and death rate by age group and sex,N
+Health,Tuberculosis notifications (all forms) and rate by age group and sex,Department of Health,CSV,Yearly,Tuberculosis notifications (all forms) and rate by age group and sex,N
+Health,Summary on causative agents for Food poisoning outbreaks,Department of Health,XLSX,Quarterly,Food poisoning surveillance data including the number of food poisoning outbreaks caused by different groups of causative agents and the number of persons affected,N
+Health,Statistics on Dengue fever,Department of Health,XLSX,Monthly,"Dengue fever surveillance data including the number of imported cases, local cases and unclassified cases.",Y
+Health,Statistics on Breastfeeding,Department of Health,XLSX,Biannually or as and when necessary,Statistics on Breastfeeding from 2006-2016,N
+Commerce and Industry,"Statistics of Trade Marks, Patents, Designs and Copyright Licensing Bodies - applications and registrations/grants",Intellectual Property Department,CSV,Monthly,"Statistics of Trade Marks, Patents, Designs and Copyright Licensing Bodies - applications and registrations/grants",Y
+Commerce and Industry,Statistics on Satellite Master Antenna Television (SMATV),Office of the Communications Authority,XLSX,Monthly,Statistics on Satellite Master Antenna Television (SMATV),Y
+Commerce and Industry,Statistics of Trade Marks Registrations (by Country of Origin/Region of Owners),Intellectual Property Department,CSV,Yearly,Statistics of Trade Marks Registrations (by Country of Origin/Region of Owners),Y
+Health,Number of babies birth at public hospitals and maternity homes screened with glucose-6-phosphate dehydrogenase (G6PD) deficiency,Department of Health,CSV/XLSX,Yearly,Number of babies birth at public hospitals and maternity homes screened with glucose-6-phosphate dehydrogenase (G6PD) deficiency,Y
+Commerce and Industry,Statistics of Trade Marks Applications (by Country of Origin/Region of Applicants),Intellectual Property Department,CSV,Yearly,Statistics of Trade Marks Applications (by Country of Origin/Region of Applicants),Y
+Health,Typing Results,Department of Health,CSV,Quarterly,"The following data is updated on a quarterly basis.  Please visit the website of the Centre of Health Protection, Department of Health, for the latest data.",N
+Health,Number of notifiable infectious diseases by month,Department of Health,XLSX,Monthly,Number of notifiable infectious diseases by month,Y
+Health,"Weekly number of hospital admission episodes of hand, foot and mouth disease (HFMD) reported by Hospital Authority",Department of Health,XLSX,Weekly,"Weekly number of hospital admission episodes of hand, foot and mouth disease (HFMD) reported by Hospital Authority",N
+Commerce and Industry,Statistics of Designs Applied For (by Country of Origin/Region of Applicants),Intellectual Property Department,CSV,Yearly,Statistics of Designs Applied For (by Country of Origin/Region of Applicants),Y
+Commerce and Industry,Visitor statistics,Census and Statistics Department,XLS,Monthly/ Annual,Visitor statistics,N
+Commerce and Industry,Statistics of Designs Registered (by Country of Origin/Region of Proprietors),Intellectual Property Department,CSV,Yearly,Statistics of Designs Registered (by Country of Origin/Region of Proprietors),Y
+Commerce and Industry,Value and Proportion of Trade Involving Outward Processing in the Mainland of China,Census and Statistics Department,XLS,Quarterly,Value and Proportion of Trade Involving Outward Processing in the Mainland of China,N
+Commerce and Industry,Strategic Commodities Control - Free eMail Notification Services,Trade and Industry Department,XML,As and when necessary,Information related to the Strategic Commodities Control of Trade and Industry Department would be delivered through the Free eMail Notification Services.,N
+Commerce and Industry,Statistical Digest of the Services Sector,Census and Statistics Department,XLS,Quarterly/ Annual,Statistical Digest of the Services Sector,N
+Commerce and Industry,Retail Sales,Census and Statistics Department,XLS/XML,Monthly,Retail Sales,N
+Commerce and Industry,Restaurant Receipts and Purchases,Census and Statistics Department,XLS/XML,Quarterly,Restaurant Receipts and Purchases,N
+Commerce and Industry,Registers of Personnel on Gas - Competent Persons (Class 3),Electrical and Mechanical Services Department,XLSX,As necessary,Lists of competent persons under the Code of Practice for Hong Kong LPG Industry / Gas Safety (Gasholders Examination) Regulation (Gasholders Examination) Regulation,Y
+Commerce and Industry,Registers of Personnel on Gas - Competent Persons (Class 2),Electrical and Mechanical Services Department,XLSX,As necessary,Lists of competent persons under the Code of Practice for Hong Kong LPG Industry / Gas Safety (Gasholders Examination) Regulation (Gasholders Examination) Regulation,Y
+Commerce and Industry,Registers of Personnel on Gas - Competent Persons (Class 1a & 1b),Electrical and Mechanical Services Department,XLSX,As necessary,Lists of competent persons under the Code of Practice for Hong Kong LPG Industry / Gas Safety (Gasholders Examination) Regulation (Gasholders Examination) Regulation,Y
+Commerce and Industry,Registered Vehicle Mechanics,Electrical and Mechanical Services Department,XLSX,"Monthly - Registered Vehicle Mechanics
+",List of registered vehicle mechanics and list of competent persons qualified in servicing LPG vehicle,Y
+Commerce and Industry,Registered Lift Workers,Electrical and Mechanical Services Department,XLSX,As necessary,List of registered lift workers,Y
+Commerce and Industry,Statistics of Standard Patent Applications Filed (by Country of Origin/Region of Applicants),Intellectual Property Department,CSV,Yearly,Statistics of Standard Patent Applications Filed (by Country of Origin/Region of Applicants),Y
+Commerce and Industry,Statistics of Standard Patents Granted (by Country of Origin/Region of Proprietors),Intellectual Property Department,CSV,Yearly,Statistics of Standard Patents Granted (by Country of Origin/Region of Proprietors),Y
+Commerce and Industry,Statistics of Short-Term Patents Granted (by Country of Origin/Region of Proprietors),Intellectual Property Department,CSV,Yearly,Statistics of Short-Term Patents Granted (by Country of Origin/Region of Proprietors),Y
+Commerce and Industry,Statistics of Short-Term Patent Applications Filed (by Country of Origin/Region of Applicants),Intellectual Property Department,CSV,Yearly,Statistics of Short-Term Patent Applications Filed (by Country of Origin/Region of Applicants),Y
+Commerce and Industry,Registered Lift Engineers,Electrical and Mechanical Services Department,XLSX,As necessary,List of registered lift engineers,Y
+Health,Sentinel surveillance infectious diseases data in Residential Care Homes for the Elderly (RCHE) weekly report,Department of Health,XLSX,Weekly,This weekly update outlines the data provided by Residential Care Homes for the Elderly  participating in the Sentinel Surveillance of Infectious Diseases.,N
+Health,Serological Surveillance,Department of Health,CSV,Yearly or as and when necessary,"Serological Surveillance (Cytomegalovirus, Hepatitis A Virus, Measles Virus, Mumps Virus, Rubella Virus, Poliovirus and Varicella Zoster Virus)",N
+Commerce and Industry,Registered Lift Contractors,Electrical and Mechanical Services Department,XLSX,As necessary,List of registered lift contractors,Y
+Health,Sentinel surveillance infectious diseases data in Child Care Centres/Kindergarten (CCC/KG) weekly report,Department of Health,XLSX,Weekly,This weekly update outlines the data provided by Child Care Centres/Kindergartens participating in the Sentinel Surveillance of Infectious Diseases.,N
+Health,Sentinel surveillance  influenza-like illness data in General Out-patient Clinics / General Practitioners Sentinel Surveillance monthly report,Department of Health,XLSX,Monthly,This monthly update outlines the data provided by General Out-patient Clinics / General Practitioners participating in the sentinel surveillance of influenza-like illness.,N
+Health,Sentinel surveillance  influenza-like illness data in General Out-patient Clinics / General Practitioners Sentinel Surveillance weekly report,Department of Health,XLSX,Weekly,This weekly update outlines the data provided by General Out-patient Clinics / General Practitioners participating in the sentinel surveillance of influenza-like illness.,N
+Health,No. of vaccines administered under Vaccination Subsidy Scheme (VSS),Department of Health,CSV,monthly,No. of seasonal influenza and pneumococcal vaccines administered under Vaccination Subsidy Scheme 2017/18,N
+Health,No. of vaccines administered under Government Vaccination Programme (GVP),Department of Health,CSV,monthly,No. of seasonal influenza and pneumococcal vaccines administered under Government Vaccination Scheme 2017/18,N
+Health,Major Health Related Statistics of Hong Kong,Food and Health Bureau,XLSX,Yearly or as and when necessary,Major health related statistics of Hong Kong,N
+Commerce and Industry,Registered Electrical Contractors,Electrical and Mechanical Services Department,XLSX,As necessary,List of registered electrical contractors,Y
+Commerce and Industry,Registered Contractors of Builders' Lifts and Tower Working Platforms,Electrical and Mechanical Services Department,XLSX,Quarterly,Lists of registered examiners / contractors under the Builders' Lifts and Tower Working Platforms (Safety) Ordinance,Y
+Commerce and Industry,Register of Personnel on Amusement Rides,Electrical and Mechanical Services Department,XLSX,Quarterly,List of surveyors and qualified persons under the Amusement Rides (Safety) (Operation and Maintenance) Regulation,Y
+Health,Sentinel surveillance infectious diseases data in Chinese Medicine Practitioner (CMP) weekly report,Department of Health,XLSX,Weekly,This weekly update outlines the data provided by Chinese Medicine Practitioners participating in the sentinel surveillance of infectious diseases.,N
+Commerce and Industry,Producer Price Index for Industrial Sector,Census and Statistics Department,XLS/XML,Quarterly,Producer Price Index for Industrial Sector,N
+Commerce and Industry,Registered Electrical Workers,Electrical and Mechanical Services Department,XLSX,As necessary,List of registered electrical workers,N
+Health,Manpower Position - Number of Full-time Equivalent (FTE) Staff,Hospital Authority,JSON/XLSX,Annually,Manpower Position - Number of Full-time Equivalent (FTE) Staff,N
+Commerce and Industry,Registered Energy Assessors,Electrical and Mechanical Services Department,XLSX,Weekly,List of registered energy assessors,Y
+Health,Local Statistics on Injury among Youth,Department of Health,XLSX,As and when necessary,"Statistics on injury among youth (by sex, cause of injury, adoption of preventive measures)
+
+(i) Proportion of youth aged 10 to 19 who had sustained injury in the 12 months before enumeration by gender, in 2008
+
+(ii) Proportion of main cause in injury...",N
+Commerce and Industry,Performance Rating of Registered Escalator Contractors,Electrical and Mechanical Services Department,XLSX,Quarterly,Performance rating in safety and service quality aspects of the registered lift and escalator contractors,Y
+Health,Statistics on Cancer,Hospital Authority,JSON/XLSX,Yearly or as and when necessary,Statistics on Cancer,N
+Commerce and Industry,Producer Price Indices of Selected Service Industries (2001=100),Census and Statistics Department,XLS,Quarterly,Producer Price Indices of Selected Service Industries (2001=100),N
+Commerce and Industry,Orders-on-hand,Census and Statistics Department,XLS,Ad hoc,Orders-on-hand,N
+Commerce and Industry,Operating characteristics of enterprises analysed by sector (only including enterprises with employees),Census and Statistics Department,XLS,Annual,Operating characteristics of enterprises analysed by sector (only including enterprises with employees),N
+Health,Lists of Chinese medicine practitioners,Department of Health,XLSX/XML,As and when necessary,List of Registered Chinese Medicine Practitioners / List of Chinese Medicine Practitioners with Limited Registration / List of Listed Chinese Medicine Practitioners / Addresses of Listed Chinese Medicine Practitioners,Y
+Health,List of holders of certificate for manufacturer (good manufacturing practice for proprietary Chinese medicines),Department of Health,XLSX/XML,As and when necessary,"List showing company name, certificate number, company address and address of manufacturing plant of Holders of Certificate for Manufacturer (Good Manufacturing Practice for Proprietary Chinese Medicines)",Y
+Population,2006 Population By-census - Statistical Tables,Census and Statistics Department,XLS,As and when necessary,A set of statistical tables presenting the results of the 2006 Population By-census on various data topics,Y
+Commerce and Industry,Performance Rating of Registered Lift Contractors,Electrical and Mechanical Services Department,XLSX,Quarterly,Performance rating in safety and service quality aspects of the registered lift and escalator contractors,Y
+Health,List of approved hospitals/clinics under section 47A (3) of the Offences Against the Person Ordinance (Cap. 212),Department of Health,XLSX,As and when necessary,Section 47A (3) of the Offences Against the Person Ordinance (Cap. 212) provides that any treatment for the termination of pregnancy must be carried out in a hospital or clinic maintained by the Government or declared by the Director of Health by...,Y
+Commerce and Industry,Open Tenders issued via e-Tender Box (ETB) of Government Logistics Department (GLD),Government Logistics Department,XML,"Daily at 12:05am, 12:05pm, 2:00pm and as necessary",Open Tenders issued via e-Tender Box (ETB) of Government Logistics Department (GLD),N
+Commerce and Industry,Offshore Trade in Goods,Census and Statistics Department,XLS,Annual,Offshore Trade in Goods,N
+Health,List of applications for proprietary Chinese medicine (pCm) registration,Department of Health,XML,As and when necessary,"List showing the product name, trademark text, product holder (pCm wholesaler/ pCm manufacturer), pCm registration number/application number and active ingredients displayed on the pCm label etc.",N
+Health,List of clinics registered under Medical Clinics Ordinance (Cap. 343),Department of Health,XLSX,As and when necessary,List of clinics registered under Medical Clinics Ordinance (Cap. 343) with address information of the private healthcare institutions,N
+Health,"List of Registered Private Hospitals under Hospitals, Nursing Homes and Maternity Homes Registration Ordinance (Cap. 165)",Department of Health,XLSX,As and when necessary,"List of Registered Private Hospitals under Hospitals, Nursing Homes and Maternity Homes Registration Ordinance (Cap. 165) with contact information includng the address, telephone number, fax number, email address and website of the private healthcare...",N
+Health,"List of Registered Nursing Homes under Hospitals, Nursing Homes and Maternity Homes Registration Ordinance (Cap. 165)",Department of Health,XLSX,As and when necessary,"List of Registered Nursing Homes under Hospitals, Nursing Homes and Maternity Homes Registration Ordinance (Cap. 165) with the contact information including address, telephone number, fax number, email address of the private healthcare institutions",Y
+Health,List of Registered Pharmaceutical Products,Department of Health,XML,As and when necessary,"List showing the name of product, name of registration certificate holder, Hong Kong registration number (Permit No) and active ingredient(s) of each registered pharmaceutical product.",N
+Health,Life Expectancy,Department of Health,XLSX,Yearly or as and when necessary,Life Expectancy at Birth by Sex for the Period from 1971 to 2016,Y
+Health,Inpatient Statistics,Department of Health,XLSX,As and when necessary,Inpatient Discharges and Deaths in All Hospitals Classified by Disease for the Year 2016,N
+Health,List of Licensed Drug Dealers (English Only),Department of Health,XML,As and when necessary,"List showing the name of company, address of company, licence type, district and telephone number of each licensed drug dealer",N
+Health,HIV/AIDS yearly statistics in Hong Kong,Department of Health,XLSX,every year,HIV/AIDS yearly statistics in Hong Kong 1984 - 2016,N
+Health,List of Licensed Pharmacies (English Only),Department of Health,XML,As and when necessary,"List showing the name, address, district and telephone number of each licensed pharmacy (Authorized Seller of Poisons)",N
+Health,Hong Kong's Domestic Health Accounts (HKDHA),Food and Health Bureau,XLSX,Yearly or as and when necessary,Estimate of domestic health expenditure,N
+Commerce and Industry,Labour Productivity Index (Year 2000 = 100),Census and Statistics Department,XLS,Half-yearly,Labour Productivity Index (Year 2000 = 100),N
+Health,Influenza Virus Subtyping,Department of Health,CSV,Quarterly,"The following data is updated on a quarterly basis.  Please visit the website of the Centre of Health Protection, Department of Health, for the latest data.",N
+Commerce and Industry,"Key Statistics on Business Performance and Operating Characteristics of the Import/Export, Wholesale and Retail Trades, and Accommodation and Food Services Sectors",Census and Statistics Department,XLS/XML,Annual,"Key Statistics on Business Performance and Operating Characteristics of the Import/Export, Wholesale and Retail Trades, and Accommodation and Food Services Sectors",N
+Commerce and Industry,List of Experimental Station Licensees,Office of the Communications Authority,XLSX,Monthly,List of Experimental Station Licensees,Y
+Commerce and Industry,"Key Statistics on Business Performance and Operating Characteristics of the Building, Construction and Real Estate Sectors",Census and Statistics Department,XLS/XML,Annual,"Key Statistics on Business Performance and Operating Characteristics of the Building, Construction and Real Estate Sectors",N
+Commerce and Industry,"Key Statistics on Business Performance and Operating Characteristics of the Information and Communications, Financing and Insurance, Professional and Business Services Sectors",Census and Statistics Department,XLS/XML,Annual,"Key Statistics on Business Performance and Operating Characteristics of the Information and Communications, Financing and Insurance, Professional and Business Services Sectors",N
+Commerce and Industry,"Key Statistics on Business Performance and Operating Characteristics of the Transportation, Storage and Courier Services Sector",Census and Statistics Department,XLS/XML,Annual,"Key Statistics on Business Performance and Operating Characteristics of the Transportation, Storage and Courier Services Sector",N
+Commerce and Industry,Index of Industrial Production,Census and Statistics Department,XLS/XML,Quarterly,Index of Industrial Production,N
+Commerce and Industry,Index Numbers of the Costs of Labour and Materials used in Public Sector Construction Projects,Census and Statistics Department,XLS/XML,Monthly,Index Numbers of the Costs of Labour and Materials used in Public Sector Construction Projects,N
+Commerce and Industry,Household Expenditure Survey and the Rebasing of the Consumer Price Indices,Census and Statistics Department,XLS,Ad hoc,Household Expenditure Survey and the Rebasing of the Consumer Price Indices,N
+Commerce and Industry,Hong Kong's Principal Trading Partners,Trade and Industry Department,XLS,As and when necessary,Key statistics of Hong Kong external merchandise trade.,Y
+Commerce and Industry,Hong Kong Energy Statistics,Census and Statistics Department,XLS/XML,Monthly,Hong Kong Energy Statistics,N
+Health,Feature Articles on Health,Census and Statistics Department,CSV/XLS,Ad hoc,Feature Articles on Health,N
+Health,List of Hospital Authority Hospitals/Institutions/Specialist Outpatient Clinics/General Outpatient Clinics,Hospital Authority,JSON/XLSX,Quarterly,List of Hospital Authority Hospitals/Institutions/Specialist Outpatient Clinics/General Outpatient Clinics,N
+Health,Inpatient and day inpatient services throughputs,Hospital Authority,JSON/XLSX,Annually,Inpatient and day inpatient services throughputs,N
+Health,Estimated total and per capita alcohol consumption,Department of Health,XLSX,Yearly or as and when necessary,"Estimated total and per capita alcohol consumption in Hong Kong (in litres), 2004-2016",Y
+Health,Health Manpower Survey,Department of Health,XLSX,Every 3 years,Health Manpower Survey,N
+Environment,Pleasant Environment Statistics,Food and Environmental Hygiene Department,XLS,As and when necessary,Pleasant Environment Statistics (2014-2017),N
+Commerce and Industry,Domestic Export Statistics Classified by Industrial Origin,Census and Statistics Department,XLS,Quarterly,Domestic Export Statistics Classified by Industrial Origin,N
+Social Welfare,Approved fund-raising activities,Office of the Government Chief Information Officer,JSON/XML,"Social Welfare Department:  as necessary;
+Food and Environmental Hygiene Department: twice daily;
+Home Affairs Department: as necessary;
+Home Affairs Bureau: as necessary.","Information of approved fund-raising activities for Public Subscription Permit, Temporary Hawker Licence, Lottery Licence and Non-Charitable Fund-Raising Permit.
+
+HTTP method: GET
+
+**Parameters**:
+
+- fromdate: First date in a date range of the...",Y
+Health,FEHD facility and service locations,Food and Environmental Hygiene Department,XML,As and when necessary,Locations and details about different facilities and services provided by the Food and Environmental Hygiene Department,Y
+Environment,Solid waste statistics,Census and Statistics Department,XLS,Annual,Solid waste statistics,N
+Environment,Recent River Water Quality Data,Environmental Protection Department,CSV,Every mid of month,Recent Dissolved Oxygen (DO) and bacteria (E. coli) data at downstream monitoring stations of major rivers from 05/2016 to 04/2018,N
+Commerce and Industry,Hong Kong Trade in Services Statistics,Census and Statistics Department,XLS/XML,Half-yearly,Hong Kong Trade in Services Statistics,N
+Commerce and Industry,Defect rectification tips for HK Electric's inspection on customer installation,"The Hongkong Electric Company, Limited",CSV,As and when necessary,"Provide the defect list and the rectification tips for the inspection on customer installation for application of new or additional supply. The CSV file contains the defect details (including code, section, type and description) and the rectification tips.",Y
+Commerce and Industry,Contractor List 2: Gas Installation Work In Commercial Kitchens Registered Gas Contractors (LPG),Electrical and Mechanical Services Department,XLSX,Monthly,Lists of registered gas contractors under the Gas Safety (Registration of Gas Installers and Gas Contractors) Regulations,Y
+Commerce and Industry,Contractor List 3: Registered Gas Contractors (Dim Sum Trolley Supply and/or Service),Electrical and Mechanical Services Department,XLSX,Monthly,Lists of registered gas contractors under the Gas Safety (Registration of Gas Installers and Gas Contractors) Regulations,Y
+Environment,Youth.gov.hk Freshtube video channel,Efficiency Office,XML,As and when necessary,"The Freshtube video channel of Youth.gov.hk is a dedicated green-channel for youths. It introduces natural resources in Hong Kong, discusses different environmental issues and promote green living.",N
+Environment,Waste Less - Recyclable Collection Points Data,Environmental Protection Department,CSV,As and when necessary,“Waste Less” is a mobile app developed by the Environmental Protection Department (EPD) of the Government of the Hong Kong Special Administrative Region. Its database stores the location and details of various recyclable collection points all over Hong Kong.,Y
+Environment,Water Dispensers in FEHD Public Markets,Food and Environmental Hygiene Department,CSV,As and when necessary,List of Water Dispensers in FEHD Public Markets,N
+Health,EV Scan's figures data,Department of Health,XLSX,Weekly,"Hand, foot and mouth disease surveillance data including number of EV71 cases, institutional outbreaks, hospital surveillance and sentinel surveillance",N
+Environment,Update of Red Tide Situation,"Agriculture, Fisheries and Conservation Department",CSV,Every Week,Information of red tide sighted in Hong Kong waters,Y
+Environment,The Quantity of Natural Sand from Mainland used in Construction Industry,Civil Engineering and Development Department,XLSX,Monthly,The Quantity of Natural Sand from Mainland used in Construction Industry,N
+Commerce and Industry,Contractor List 1: Gas Installation Work In Commercial Kitchens Registered Gas Contractors (Town Gas),Electrical and Mechanical Services Department,XLSX,Monthly,Lists of registered gas contractors under the Gas Safety (Registration of Gas Installers and Gas Contractors) Regulations,Y
+Environment,Past record of Air Quality Health Index (Simplified Chinese Version),Environmental Protection Department,CSV,Every Six Months,Hourly Air Quality Health Index (AQHI) at different Air Quality Monitoring stations since 30 December 2013 (Simplified Chinese Version),N
+Commerce and Industry,Consumer Price Index,Census and Statistics Department,XLS/XML,Monthly,Consumer Price Index,N
+Health,"Doctors per 10,000 population",Department of Health,XLSX,As and when necessary,"Doctors per 10,000 population",N
+Health,Detection of Gastroenteritis Viruses from Faecal Specimens,Department of Health,CSV,Quarterly,"The following data is updated on a quarterly basis.  Please visit the website of the Centre of Health Protection, Department of Health, for the latest data.",N
+Health,Detection of Pathogens from Respiratory Specimens,Department of Health,CSV,Quarterly,"The following data is updated on a quarterly basis.  Please visit the website of the Centre of Health Protection, Department of Health, for the latest data.",N
+Health,Detection Rate of Overweight & Obesity of 4-year old Children,Department of Health,XLSX,Yearly or as and when necessary,Detection rate of overweight and obesity of 4-year-old children who attended Maternal and Child Health Centres in 2011 to 2017,N
+Health,Department of Health -  outpatient service attendances,Department of Health,XLSX,As and when necessary,"Department of Health -  outpatient service attendances
+
+(i) General Outpatient Service Attendances
+
+(ii) Other Outpatient Service Attendances",N
+Commerce and Industry,Construction Output,Census and Statistics Department,XLS/XML,Quarterly,Construction Output,N
+Recreation and Culture,11-a-side Soccer Pitches (Artificial Turf Pitch),Leisure and Cultural Services Department,JSON,As and when necessary,Location of 11-a-side Soccer Pitches (Artificial Turf Pitch),N
+Environment,Past record of Air Quality Health Index (Traditional Chinese Version),Environmental Protection Department,CSV,Every Six Months,Hourly Air Quality Health Index (AQHI) at different Air Quality Monitoring stations since 30 December 2013 (Traditional Chinese Version),Y
+Health,Death Statistics,Department of Health,XLSX,As and when necessary,"Death statistics
+
+(i) Number of Deaths for Different Sexes and Crude Death Rate for the Period from 1981 to 2016
+
+(ii) Age-standardized Death Rate (Overall and by Sex) for the Period from 1981 to 2016
+
+(iii) Age-specific Death Rate for Year 2006 and...",Y
+Climate and Weather,Local weather forecast,Hong Kong Observatory,RSS,Hourly and as necessary,Provide local weather forecast for today and/or tomorrow,N
+Environment,Past 24-hour Pollutant Concentration of individual Air Quality Monitoring stations,Environmental Protection Department,XML,Hourly,Pollutant Concentration at individual general and roadside Air Quality Monitoring stations for the past 24 hours,N
+Health,Confirmed Cases of Food Poisoning due to Clenbuterol & Pesticides,Department of Health,XLSX,Monthly,Food poisoning surveillance data including the number of confirmed food poisoning outbreaks due to clenbuterol and pesticides and the number of persons affected,Y
+Commerce and Industry,Business Tendency,Census and Statistics Department,XML,Quarterly,Business Tendency,N
+Commerce and Industry,Competent Persons (Class 6),Electrical and Mechanical Services Department,XLSX,Yearly - Competent Persons (Class 6),List of registered vehicle mechanics and list of competent persons qualified in servicing LPG vehicle,Y
+Commerce and Industry,Business Situation of Small and Medium-sized Enterprises,Census and Statistics Department,XLS,Monthly,Business Situation of Small and Medium-sized Enterprises,N
+Environment,Past record of Air Quality Health Index (English Version),Environmental Protection Department,CSV,Every Six Months,Hourly Air Quality Health Index (AQHI) at different Air Quality Monitoring stations since 30 December 2013 (English Version),Y
+Commerce and Industry,Companies in Hong Kong Representing Parent Companies Located outside Hong Kong,Census and Statistics Department,XLS,Annual,Companies in Hong Kong Representing Parent Companies Located outside Hong Kong,N
+Climate and Weather,Current weather report,Hong Kong Observatory,RSS,Hourly and as necessary,Provide current weather report of Hong Kong,N
+Housing,Summary Statistics on Valuation List and Government Rent Roll,Rating and Valuation Department,XLS,Annually,Statistical summary on number of assessments and rateable values contained in the Valuation List and the Government Rent Roll,Y
+Environment,Past 24-hour Air Quality Health Index of individual Air Quality Monitoring stations,Environmental Protection Department,XML,Hourly,Air Quality Health Index (AQHI) at individual general and roadside Air Quality Monitoring stations for the past 24 hours,N
+Health,Cancer Statistics,Department of Health,XLSX,As and when necessary,Number of Cancer New Cases and Registered Deaths by Ten Leading Cancer Disease Group by Sex 2015,N
+Health,Birth Statistics,Department of Health,XLSX,As and when necessary,"Birth Statistics
+
+(i) Number of Known Births for Different Sexes and Crude Birth Rate for the Period from 1981 to 2016
+
+(ii) Percentage Distribution of Live Births by Birth Weight for the Period from 2012 to 2016",Y
+Health,Bacterial Pathogen Isolation and Percentage of Antimicrobial Resistance - Out-patient Setting,Department of Health,CSV,Quarterly,"The following data is updated on a quarterly basis.  Please visit the website of the Centre of Health Protection, Department of Health, for the latest data.",N
+Environment,Hong Kong Energy End-use Data,Electrical and Mechanical Services Department,XLSX,Yearly,Hong Kong energy end-use data 2017,N
+Commerce and Industry,Average Wholesale Prices of Selected Building Materials,Census and Statistics Department,XML,Monthly,Average Wholesale Prices of Selected Building Materials,N
+Commerce and Industry,Auto-LPG Prices,Electrical and Mechanical Services Department,XLSX,Monthly,Pricing adjustment mechanism for auto-LPG at dedicated LPG filling stations,N
+Commerce and Industry,Approved Competent Persons for Locating Underground Electricity Cables,Electrical and Mechanical Services Department,XLSX,Monthly,List of approved competent persons for locating underground electricity cables,Y
+Housing,Property information of the CCI constituent estates,Centaline Property Agency Limited,CSV,As and when necessary,"The CSV provides property information of the CCI constituent estates, including estate facilities, developer(s), occupation year and number of buildings. 
+
+Terms of...",Y
+Environment,Past Record of Air Pollution Index (Traditional Chinese Version),Environmental Protection Department,CSV,N/A,Hourly Air Pollution Index (API) at different Air Quality Monitoring stations from July 1999 to December 2013 (Traditional Chinese Version),N
+Housing,Property Market Statistics,Rating and Valuation Department,XLS,"Monthly, except for ""Completions and related statistics"" to be updated annually","Statistical data on prices, rents, market yields, number of transactions, completions, stock, vacancy and take-up of various types of properties.",Y
+Housing,Location and Profile of Public Housing Estates,Hong Kong Housing Authority,JSON,Ad-hoc,"Location and profile of the Hong Kong Housing Authority’s public housing estates, shopping centres, flatted factories and courts sold under the Home Ownership Scheme / Private Sector Participation Scheme",N
+Climate and Weather,9-day weather forecast,Hong Kong Observatory,RSS,Twice daily and as necessary,Provide 9-day weather forecast of Hong Kong,N
+Environment,Historical River Water Quality Data (Traditional Chinese Version),Environmental Protection Department,CSV,To be updated yearly along with the Annual Report on River Water Quality in Hong Kong (Usually in Q3),River Water Quality data at different monitoring stations from 1986 to 2016 (Traditional Chinese Version),N
+Health,Behavioural Risk Factor Survey,Department of Health,XLSX,As and when necessary,"Behavioural Risk Factor Survey
+
+(i)  Body Mass Index (BMI) distribution (adult Europeans and Chinese adults in Hong Kong)
+
+(ii) Weight control data
+
+(iii) Days of physical activity (vigorous, moderate and walking)
+
+(iv) Level of physical activity
+
+(v)...",N
+Environment,Past Record of Air Pollution Index (English Version),Environmental Protection Department,CSV,N/A,Hourly Air Pollution Index (API) at different Air Quality Monitoring stations from July 1999 to December 2013 (English Version),N
+Commerce and Industry,Business Receipts Indices for Service Industries,Census and Statistics Department,XLS/XML,Quarterly,Business Receipts Indices for Service Industries,N
+Development,Redevelopment and Conversion of Industrial Buildings,Lands Department,XLSX,As and when necessary,Executed Special Waiver Cases,Y
+Environment,Historical River Water Quality Data (Simplified Chinese Version),Environmental Protection Department,CSV,To be updated yearly along with the Annual Report on River Water Quality in Hong Kong (Usually in Q3),River Water Quality data at different monitoring stations from 1986 to 2016 (Simplified Chinese Version),N
+Development,Redevelopment and Conversion of Industrial Buildings,Lands Department,XLSX,As and when necessary,Executed Lease Modification Cases,Y
+Development,Private Treaty Grant,Lands Department,XLSX,As and when necessary,Private Treaty Grant,Y
+Development,Redevelopment and Conversion of Industrial Buildings,Lands Department,XLSX,As and when necessary,Executed Land Exchange Cases,Y
+Development,Monthly Digests of Buildings Department - Prosecutions instigated under the Buildings Ordinance and Fire Safety (Commercial Premises) Ordinance,Buildings Department,XLS,Monthly,"Statistics extracted from the Monthly Digests published by the Buildings Department.
+
+For more details about this dataset, you may refer to the PDF version of the Monthly Digests published on [the website of the Buildings...",N
+Development,Monthly Digests of Buildings Department - New buildings - Approvals of new and major revision building plans,Buildings Department,XLS,Monthly,"Statistics extracted from the Monthly Digests published by the Buildings Department.
+
+For more details about this dataset, you may refer to the PDF version of the Monthly Digests published on [the website of the Buildings...",N
+Development,Registers of Buildings Department,Buildings Department,XLS,Every Monday and Thursday,"Registers of Authorized Persons, engineers, inspectors and contractors of the Buildings Department.
+
+The XLS files provide basic information, contact information, registration number, services provided (if applicable), etc. of registered individuals /...",Y
+Development,Street Name,Lands Department,XLS/XML,January and July,"Street names showing in map products published by the Survey and Mapping Office, Lands Department.",N
+Development,Redevelopment and Conversion of Industrial Buildings,Lands Department,XLSX,As and when necessary,Summary of Applications Received and Under Processing,N
+Development,"Monthly Digests of Buildings Department - Existing buildings - Reports received about dangerous buildings, hillsides, advertising signs, unauthorised building work and defective drains",Buildings Department,XLS,Monthly,"Statistics extracted from the Monthly Digests published by the Buildings Department.
+
+For more details about this dataset, you may refer to the PDF version of the Monthly Digests published on [the website of the Buildings...",N
+Development,Monthly Digests of Buildings Department - New buildings - Completion of new buildings and alteration & addition work,Buildings Department,XLS,Monthly,"Statistics extracted from the Monthly Digests published by the Buildings Department.
+
+For more details about this dataset, you may refer to the PDF version of the Monthly Digests published on [the website of the Buildings...",N
+Development,"Monthly Digests of Buildings Department - Existing buildings - Compliance with statutory orders issued on dangerous buildings, hillsides, investigation on building defects, buried services investigation, advertising signs, unauthorised building work and defective drains",Buildings Department,XLS,Monthly,"Statistics extracted from the Monthly Digests published by the Buildings Department.
+
+For more details about this dataset, you may refer to the PDF version of the Monthly Digests published on [the website of the Buildings...",N
+Development,Monthly Digests of Buildings Department - New buildings - Occupation Permits issued by the Building Authority,Buildings Department,XLS,Monthly,"Statistics extracted from the Monthly Digests published by the Buildings Department.
+
+For more details about this dataset, you may refer to the PDF version of the Monthly Digests published on [the website of the Buildings...",N
+Development,Monthly Digests of Buildings Department - New buildings - Consent to commence general building and superstructure work,Buildings Department,XLS,Monthly,"Statistics extracted from the Monthly Digests published by the Buildings Department.
+
+For more details about this dataset, you may refer to the PDF version of the Monthly Digests published on [the website of the Buildings...",N
+Development,Monthly Digests of Buildings Department - New Buildings - Plans processed by the Building Authority,Buildings Department,XLS,Monthly,"Statistics extracted from the Monthly Digests published by the Buildings Department.
+
+For more details about this dataset, you may refer to the PDF version of the Monthly Digests published on [the website of the Buildings...",N
+Development,Monthly Digests of Buildings Department - New buildings - Consent to commence work issued by the Building Authority,Buildings Department,XLS,Monthly,"Statistics extracted from the Monthly Digests published by the Buildings Department.
+
+For more details about this dataset, you may refer to the PDF version of the Monthly Digests published on [the website of the Buildings...",N
+Development,"Monthly Digests of Buildings Department - Existing buildings - Compliance with advisory letters issued on building defects, unauthorised building work and defective drains",Buildings Department,XLS,Monthly,"Statistics extracted from the Monthly Digests published by the Buildings Department.
+
+For more details about this dataset, you may refer to the PDF version of the Monthly Digests published on [the website of the Buildings...",N
+Development,"Monthly Digests of Buildings Department - Existing buildings - Statutory orders issued on dangerous buildings, investigation on buildings defects, hillsides, buried services investigation, advertising signs, unauthorised building work and defective drains",Buildings Department,XLS,Monthly,"Statistics extracted from the Monthly Digests published by the Buildings Department.
+
+For more details about this dataset, you may refer to the PDF version of the Monthly Digests published on [the website of the Buildings...",N
+Development,Monthly Digests of Buildings Department - Detailed information - New buildings for which notification of commencement of general building and superstructure work has been received,Buildings Department,XLS,Monthly,"Statistics extracted from the Monthly Digests published by the Buildings Department.
+
+For more details about this dataset, you may refer to the PDF version of the Monthly Digests published on [the website of the Buildings...",N
+Development,Monthly Digests of Buildings Department - Detailed information - New buildings for which plans have been approved,Buildings Department,XLS,Monthly,"Statistics extracted from the Monthly Digests published by the Buildings Department.
+
+For more details about this dataset, you may refer to the PDF version of the Monthly Digests published on [the website of the Buildings...",N
+Housing,Land Registry Yearly Statistical Summary,Land Registry,JSON/XLS,Yearly,The Land Registry's Yearly Statistics.,N
+Development,Monthly Digests of Buildings Department - Detailed information - Completed new buildings for which occupation permits have been issued,Buildings Department,XLS,Monthly,"Statistics extracted from the Monthly Digests published by the Buildings Department.
+
+For more details about this dataset, you may refer to the PDF version of the Monthly Digests published on [the website of the Buildings...",N
+Health,Antimicrobial Susceptibility Testing,Department of Health,CSV,Quarterly,"The following data is updated on a quarterly basis.  Please visit the website of the Centre of Health Protection, Department of Health, for the latest data.",N
+Development,Monthly Digests of Buildings Department - Advisory services - Advice to Licensing Authorities,Buildings Department,XLS,Monthly,"Statistics extracted from the Monthly Digests published by the Buildings Department.
+
+For more details about this dataset, you may refer to the PDF version of the Monthly Digests published on [the website of the Buildings...",N
+Environment,Historical River Water Quality Data (English Version),Environmental Protection Department,CSV,To be updated yearly along with the Annual Report on River Water Quality in Hong Kong (Usually in Q3),River Water Quality data at different monitoring stations from 1986 to 2016 (English Version),N
+Development,Monthly Digests of Buildings Department - Detailed information - New buildings for which consent to commence work has been given,Buildings Department,XLS,Monthly,"Statistics extracted from the Monthly Digests published by the Buildings Department.
+
+For more details about this dataset, you may refer to the PDF version of the Monthly Digests published on [the website of the Buildings...",N
+Health,Ambulatory and community services throughputs,Hospital Authority,JSON/XLSX,Annually,Ambulatory and community services throughputs,N
+Health,Antenatal Screening,Department of Health,CSV,Quarterly,"The following data is updated on a quarterly basis.  Please visit the website of the Centre of Health Protection, Department of Health, for the latest data.",N
+Environment,Disposal records of C&D materials at Sorting Facilities,Civil Engineering and Development Department,XLS,Daily,Disposal Records of C & D Materials at Sorting Facilities from Public Works Contracts,Y
+Development,Monthly Digests of Buildings Department - Detailed information - Buildings for which Building Authority has issued demolition orders,Buildings Department,XLS,Monthly,"Statistics extracted from the Monthly Digests published by the Buildings Department.
+
+For more details about this dataset, you may refer to the PDF version of the Monthly Digests published on [the website of the Buildings...",N
+Housing,Feature Articles on Housing,Census and Statistics Department,CSV,Ad hoc,Feature Articles on Housing,N
+Housing,"Consents to Sell, Consents to Assign and Approvals of Deeds of Mutual Covenant Issued Since 1.1.1994",Lands Department,XLS,As and when required,"Consents to Sell, Consents to Assign and Approvals of Deeds of Mutual Covenant Issued Since 1.1.1994",Y
+Housing,"Consents to Sell, Consents to Assign and Approvals of Deeds of Mutual Covenant Issued Before 1994",Lands Department,XLSX,As and when required,"Consents to Sell, Consents to Assign and Approvals of Deeds of Mutual Covenant Issued Before 1994",Y
+Development,Lease Extension,Lands Department,XLSX,As and when necessary,Lease Extension,Y
+Environment,Disposal records of C&D materials at Public Fill Reception Facilities,Civil Engineering and Development Department,XLS,Daily,Disposal Records of Inert C & D Materials at Public Fill Reception Facilities from Public Works Contracts,Y
+Health,Accident & Emergency Departments Communicable Diseases Syndromic Surveillance,Department of Health,XLSX,Weekly,Findings of the communicable diseases surveillance based at the Accident & Emergency Departments of public hospitals,N
+Environment,Current Air Quality Health Index of individual Air Quality Monitoring stations,Environmental Protection Department,RSS,Hourly,Current Air Quality Health Index (AQHI) at individual general and roadside Air Quality Monitoring stations,N
+Environment,Current air quality health index range and forecast,Environmental Protection Department,RSS,"AQHI: hourly / Forecast: 00:30, 10:30 and 16:30 everyday and as required",Current range and forecast of Air Quality Health Index (AQHI) at general and roadside stations,N
+Housing,Address Lookup Service,Office of the Government Chief Information Officer,JSON/XML,Monthly,1. Address Lookup Service is a web service providing lookup function on Hong Kong address records in both Chinese and English aggregated from various Government Bureaux/Departments.  This web service allows data consumers to look up address records in...,Y
+Development,Land Utilization in Hong Kong 2016,Planning Department,XLS,Every year,"The land use data was compiled using satellite images dated December 2016 and January 2017 (©AIRBUS DS(2016, 2017)), in-house survey information of the Planning Department up to end-2016 and other relevant information from various government...",N
+Development,Land Sale Records,Lands Department,XLSX,As and when necessary,Land Sale Records,Y
+Development,Land Exchange Transactions,Lands Department,XLSX,As and when necessary,Land Exchange Transactions,Y
+Development,Monthly Digests of Buildings Department - Detailed information - Buildings for which Building Authority has issued demolition consent,Buildings Department,XLS,Monthly,"Statistics extracted from the Monthly Digests published by the Buildings Department.
+
+For more details about this dataset, you may refer to the PDF version of the Monthly Digests published on [the website of the Buildings...",N
+IT and Broadcasting,IT Services Suppliers (Interested Suppliers),Office of the Government Chief Information Officer,XLS,As and when necessary,"Interested Suppliers are those suppliers that have expressed their interest to supply Information Technology (IT) professional services to the Government. 
+Please refer to [the Government IT Business Window of OGCIO...",Y
+IT and Broadcasting,IT Services Suppliers (Active Suppliers),Office of the Government Chief Information Officer,XLS,As and when necessary,"Active Suppliers are those suppliers that have supplied Information Technology (IT) professional services to the Government over the past three years, either as a contractor or as a sub-contractor. 
+Please refer to [the Government IT Business Window...",Y
+Environment,Beach water quality,Environmental Protection Department,RSS,As and when necessary,Latest information on beach water quality grading,N
+Development,Geo-referenced public facility data,Lands Department,CSV,As and when necessary,"Geo-referenced public facility data, such as locations of Aided Primary Schools,Aided Secondary Schools, Aided Special Schools, Air Quality Monitoring Network of Hong Kong, Badminton Courts, Barbecue Areas (AFCD), Barbecue Areas (LCSD), Basketball...",N
+Development,Geodetic Survey Control Station Database,Lands Department,GML/KML/XLS/XML,As and when necessary,"There are about 5,500 Geodetic Survey Control Stations in Hong Kong, including trigonometric stations, bench marks and traverse stations. The coordinates of these stations can be widely adopted for positioning tasks. The Database files (xls/xml files)...",Y
+IT and Broadcasting,Hong Kong Supplementary Character Set related information,Office of the Government Chief Information Officer,JSON,As and when necessary,"Information related to the Hong Kong Supplementary Character Set including ISO/IEC 10646 code point, character, compatibility point, Cangjei, Cantonese pinyin and Big5 code, etc.",N
+IT and Broadcasting,Government IT Expenditure,Office of the Government Chief Information Officer,XLS,Every 1 year,The Government IT expenditure in the past years,Y
+Education,List of UGC-funded Programmes,University Grants Committee Secretariat,CSV,Every year,List of all UGC-funded programmes.,Y
+Development,Lease Modification Transactions,Lands Department,XLSX,As and when necessary,Lease Modification Transactions,Y
+Development,Digital Terrain Model (DTM),Lands Department,ASC,As and when necessary,The DTM is a digital terrain model of the Hong Kong Special Administrative Region. It shows the topography of terrain (including non-ground information such as elevated roads and bridges) in 5-metre raster grid with an accuracy of ±5m.,N
+IT and Broadcasting,Hong Kong Innovation Activities Statistics,Census and Statistics Department,XLS/XML,Annual,Hong Kong Innovation Activities Statistics,N
+Education,"Operating Classes, Accommodation, Student Enrolment and Repeaters in Primary Schools by Grade",Education Bureau,XLS,Yearly,"Provides operating classes, accommodation, student enrolment and repeaters in primary schools by grade",N
+Development,Coordinates Transformation API,Lands Department,JSON,As and when necessary,"This Application Programming Interface (API) provides instant conversion between HK 1980 Grid Coordinates (Northing and Easting) and WGS84 (ITRF96) Geodetic Coordinates (Latitude and Longitude). The conversion methods, parameters and formulas used in...",Y
+Environment,Food Safety and Public Health Statistics,Food and Environmental Hygiene Department,XLS,As and when necessary,Food Safety and Public Health Statistics (2014-2017),N
+Development,"Monthly Digests of Buildings Department - Existing buildings - Advisory letters issued on building defects, unauthorised building work and defective drains",Buildings Department,XLS,Monthly,"Statistics extracted from the Monthly Digests published by the Buildings Department.
+
+For more details about this dataset, you may refer to the PDF version of the Monthly Digests published on [the website of the Buildings...",N
+IT and Broadcasting,Past OGCIO Sponsorship Projects,Office of the Government Chief Information Officer,XLS,As and when necessary,"To deliver the desired outcomes of the Digital 21 Strategy, OGCIO supports or partners with non-profit organisations to organise programmes through provision of financial sponsorship. Such collaboration encourages industry participation and uses of...",Y
+Education,List of Study Room,Education Bureau,XLSX,Yearly,"List of study room operated / subvented by the Education Bureau, the Leisure and Cultural Services Deparment, the Social Welfare Department, the Home Affairs Department and non-government organizations.",Y
+Education,"List of Local Kindergartens (KGs) Not Joining the ""Free Quality KG Education Scheme"" but Participating in the ""2018/19 K1 Admission Arrangements""",Education Bureau,XLSX,On a need basis,"Provide list of local kindergartens (KGs) not joining ""Free Quality KG Education Scheme” but participating in the ""2018/19 K1 Admission Arrangements""",N
+IT and Broadcasting,Speeches and Presentations,Office of the Government Chief Information Officer,JSON,As and when necessary,Speeches and Presentations of Office of the Government Chief Information Officer,N
+IT and Broadcasting,GovWiFi premises,Office of the Government Chief Information Officer,CSV,As and when necessary,Geo-referenced data of GovWiFi premises.,Y
+IT and Broadcasting,GovCERT.HK Security Advisories,Office of the Government Chief Information Officer,XML,As and when necessary,GovCERT.HK Security Advisories,N
+IT and Broadcasting,GovCERT.HK Security Alerts,Office of the Government Chief Information Officer,XML,As and when necessary,GovCERT.HK Security Alerts,N
+IT and Broadcasting,RTHK -  World News,Radio Television Hong Kong,XML,As and when necessary,RTHK News website allows you to stay up to date with the latest world news provided by RTHK.,N
+IT and Broadcasting,RTHK -  Sport News,Radio Television Hong Kong,XML,As and when necessary,RTHK News website allows you to stay up to date with the latest sport news provided by RTHK.,N
+IT and Broadcasting,RTHK -  Local News,Radio Television Hong Kong,XML,As and when necessary,RTHK News website allows you to stay up to date with the latest local news provided by RTHK.,N
+Education,Statistics of Tertiary Student Finance Scheme - Publicly-funded Programmes,Working Family and Student Financial Assistance Agency,XLSX,As and when necessary,Provides the statistics about Tertiary Student Finance Scheme - Publicly-funded Programmes,N
+IT and Broadcasting,RTHK -  Finance News,Radio Television Hong Kong,XML,As and when necessary,RTHK News website allows you to stay up to date with the latest finance news provided by RTHK.,N
+IT and Broadcasting,RTHK -  Greater China News,Radio Television Hong Kong,XML,As and when necessary,RTHK News website allows you to stay up to date with the latest Greater China news provided by RTHK.,N
+Education,Statistics of Sir Edward Youde Memorial Fund,Working Family and Student Financial Assistance Agency,XLSX,As and when necessary,Provides the statistics about Sir Edward Youde Memorial Fund,N
+Education,Statistics of Subsidy Scheme for Internet Access Charges,Working Family and Student Financial Assistance Agency,XLSX,As and when necessary,Provides the statistics about Subsidy Scheme for Internet Access Charges,N
+Education,Statistics of Student Travel Subsidy Scheme,Working Family and Student Financial Assistance Agency,XLSX,As and when necessary,Provides the statistics about Student Travel Subsidy Scheme,N
+Education,Statistics of School Textbook Assistance Scheme Scheme,Working Family and Student Financial Assistance Agency,XLSX,As and when necessary,Provides the statistics about School Textbook Assistance Scheme Scheme,N
+Education,Statistics of Non-means-tested Loan Scheme,Working Family and Student Financial Assistance Agency,XLSX,As and when necessary,Provides the statistics about Non-means-tested Loan Scheme,N
+Education,Statistics of Examination Fee Remission Scheme,Working Family and Student Financial Assistance Agency,XLSX,As and when necessary,Provides the statistics about Examination Fee Remission Scheme,N
+Education,Statistics of Grant for School-related Expenses for Kindergarten Students,Working Family and Student Financial Assistance Agency,XLSX,As and when necessary,Provides the statistics about Grant for School-related Expenses for Kindergarten Students,N
+Education,Statistics of Kindergarten and Child Care Centre Fee Remission Scheme,Working Family and Student Financial Assistance Agency,XLSX,As and when necessary,Provides the statistics about Kindergarten and Child Care Centre Fee Remission Scheme,N
+Education,Statistics of Financial Assistance Scheme for Post-secondary Students,Working Family and Student Financial Assistance Agency,XLSX,As and when necessary,Provides the statistics about Financial Assistance Scheme for Post-secondary Students,N
+IT and Broadcasting,Statistics on Fixed Number Portings,Office of the Communications Authority,XLSX,Every 2 months,Statistics on Fixed Number Portings,N
+IT and Broadcasting,Statistics on Customers of Licensed Internet Service Providers in Hong Kong,Office of the Communications Authority,XLSX,Monthly,Statistics on Customers of Licensed Internet Service Providers in Hong Kong,Y
+Education,"Statistics on scholarly books, monographs and chapters, and journal publications from UGC-funded universities",University Grants Committee Secretariat,CSV,Every year,Statistics on academic publications from UGC-funded universities,N
+Education,Teaching Staff Statistics,Education Bureau,XLSX,Once a year,Information on the Number and Academic Qualifications of Academic Staff by Institution,N
+IT and Broadcasting,Statistics on Customer Access via Broadband Networks,Office of the Communications Authority,XLSX,Monthly,Statistics on Customer Access via Broadband Networks,Y
+Education,Suggested Book Lists for Technology Education,Education Bureau,XLS,Yearly,Provide the suggested book lists for Technology Education,N
+IT and Broadcasting,Statistics on Activated Capacity of External Telecommunications Facilities by Countries or Territories,Office of the Communications Authority,XLSX,Quarterly,Statistics on Activated Capacity of External Telecommunications Facilities by Countries or Territories,Y
+Education,Students Statistics,Education Bureau,XLSX,Once a year,Student Statistics on Full-time Locally-accredited Self-financing Sub-degree and Undergraduate Programmes,N
+Education,"Student Enrolment of UGC-funded Programmes by University, Level of Study, Place of Origin and Mode of Study",University Grants Committee Secretariat,CSV,Every year,Statistics on student enrolment in UGC-funded programmes,N
+IT and Broadcasting,Statistics on Capacity of External Telecommunications Facilities,Office of the Communications Authority,XLSX,Quarterly,Statistics on Capacity of External Telecommunications Facilities,Y
+IT and Broadcasting,Statistics of approved projects of Innovation and Technology Fund,Innovation and Technology Commission,XLS,Every 1 month,Statistics of approved projects of Innovation and Technology Fund,N
+Education,Student Enrolment in Secondary Day Schools by District and Grade,Education Bureau,XLS,Yearly,Provides student enrolment in secondary day schools by district and grade,N
+Education,Student Enrolment in Local Other Secondary Day Courses by Grade,Education Bureau,XLS,Yearly,Provides student enrolment in local other secondary day courses by grade,N
+Education,Student Enrolment in Local Private Secondary Evening Schools by Grade,Education Bureau,XLS,Yearly,Provides student enrolment in local private secondary evening schools by grade,N
+Education,Student Enrolment in Special Education (Including Special Classes in Ordinary Schools) by Level,Education Bureau,XLS,Yearly,Provides student enrolment in special education (including special classes in ordinary schools) by level,N
+Education,Student Enrolment in Primary Schools by District and Grade,Education Bureau,XLS,Yearly,Provides student enrolment in primary schools by district and grade,N
+Education,Student Enrolment by Level of Education,Education Bureau,XLSX,Yearly,Provides student enrolment by level of education.,Y
+Education,Student Enrolment in Day Schools by Level and Sector,Education Bureau,XLS,Yearly,Provides student enrolment in day schools by level and sector,N
+IT and Broadcasting,Statistics on Customer Access via PSTN,Office of the Communications Authority,XLSX,Monthly,Statistics on Customer Access via PSTN,Y
+Education,"Staff Number (Headcount) in Academic Departments of UGC-funded Universities by Source of Salary Funding, University, Staff Grade and Mode of Employment",University Grants Committee Secretariat,CSV,Every year,Statistics on staff in UGC-funded univerisites,N
+IT and Broadcasting,The Numbering Plan for Telecommunications Services in Hong Kong,Office of the Communications Authority,XLSX,Monthly,The Numbering Plan for Telecommunications Services in Hong Kong,N
+IT and Broadcasting,Web/Mobile App Accessibility Services Providers List,Office of the Government Chief Information Officer,XLS,As and when necessary,The list of suppliers that provide ICT professional services for the implementation of web/mobile app accessibility designs.,Y
+Education,School Registration Information,Education Bureau,XML,Daily,"Lists of registered schools and information on registration status, registered premises and permitted accommodation of classroom and boarding rooms, etc.
+
+Registered schools cover those institutions which provide any nursery, kindergarten, primary,...",N
+Education,Programme Information,Education Bureau,XLSX,Once a year,List of Full-time Locally-accredited Undergraduate and Sub-degree Programmes Published in iPASS Website,N
+Education,Research grants for UGC-funded universities,University Grants Committee Secretariat,CSV,Every year,Research grants for UGC-funded universities,Y
+Education,School Location and Information,Education Bureau,CSV/JSON/XLSX,Monthly,"Geo-referenced data and other relevant information of government, private, aided, Direct Subsidy Scheme, English Schools Foundation and international schools, kindergartens and kindergartens cum-child care centre",Y
+Education,"Operating Classes, Accommodation, Student Enrolment and Repeaters in Secondary Day Schools by Sector",Education Bureau,XLS,Yearly,"Provides operating classes, accommodation, student enrolment and repeaters in secondary day schools by sector",N
+Education,Scholarships/ Awards Information,Education Bureau,XLSX,Once a year,Scholarships/ Awards Granted under Self-financing Post-secondary Scholarship Scheme,N
+IT and Broadcasting,Statistics on Mobile Number Portings,Office of the Communications Authority,XLSX,Monthly,Statistics on Mobile Number Portings,N
+Education,"Operating Classes, Accommodation, Student Enrolment and Repeaters in Primary Schools by Sector",Education Bureau,XLS,Yearly,"Provides operating classes, accommodation, student enrolment and repeaters in primary schools by sector",N
+Education,Prizes and Awards by Broad Subject Area and by University,University Grants Committee Secretariat,CSV,Every year,Statistics on prize and awards,N
+Education,"Operating Classes, Accommodation, Student Enrolment and Repeaters in Secondary Day Schools by Grade",Education Bureau,XLS,Yearly,"Provides operating classes, accommodation, student enrolment and repeaters in secondary day schools by grade",N
+IT and Broadcasting,Past Programmes in Encouraging ICT Adoption among the Elderly by OGCIO,Office of the Government Chief Information Officer,XLS,As and when necessary,List of completed programmes funded by the OGCIO in encouraging ICT adoption among the elderly - the OGCIO implemented various programmes in past years to encourage elderly using ICT to improve their quality of life and stay connected to the community...,Y
+IT and Broadcasting,Listing of Government Public Cloud Services Providers,Office of the Government Chief Information Officer,XML,As and when necessary,The Government has developed a list of government public cloud services providers for reference by bureaux and departments in procuring public cloud services. IT firms may find it valuable to have collaboration opportunities with the listed providers.,N
+IT and Broadcasting,List of Services-Based Operator (SBO) Licensees,Office of the Communications Authority,XLSX,As and when necessary,List of Services-Based Operator (SBO) Licensees,Y
+IT and Broadcasting,List of Internet Service Providers (ISP),Office of the Communications Authority,XLSX,Monthly,List of Internet Service Providers (ISP),Y
+IT and Broadcasting,List of Carrier Licences,Office of the Communications Authority,XLSX,As and when necessary,List of Carrier Licences,N
+IT and Broadcasting,Press Releases,Office of the Government Chief Information Officer,JSON,As and when necessary,Press Releases of Office of the Government Chief Information Officer,N
+IT and Broadcasting,Public Payphone Register,Office of the Communications Authority,XLSX,Quarterly,Public Payphone Register,Y
+IT and Broadcasting,Press Releases,Information Services Department,RSS,As and when necessary,Press Releases from the HKSAR Government.,N
+IT and Broadcasting,Notice of Open Tender,Office of the Government Chief Information Officer,XLS,As and when necessary,Notice of OGCIO Open Tender.,N
+Development,1:100 000 Topographic Map of Hong Kong,Lands Department,TIF,As and when necessary,"Hong Kong Special 
+Administrative Region 1:100 000 Topographic Map",N
+IT and Broadcasting,Funded projects under the Development of Assistive Technology for Persons with Disabilities Fund,Office of the Government Chief Information Officer,XLS,As and when necessary,"List of funded projects under the Development of Assistive Technology for Persons with Disabilities Fund.
+
+The Office of the Government Chief Information Officer allocated a one-off funding of HK$3.6 million in 2010-11 to support the development of...",Y
+Education,"List of Kindergartens Joining the ""Free Quality Kindergarten Education Scheme"" in the 2017/18 school year",Education Bureau,XLSX,On a need basis,"Provide list of kindergartens joining the ""Free Quality Kindergarten Education Scheme” in the 2017/18 school year",N
+IT and Broadcasting,Information Technology Usage and Penetration in the Business Sector,Census and Statistics Department,XLS,Annual/ Ad hoc,Information Technology Usage and Penetration in the Business Sector,N
+IT and Broadcasting,Key Statistics on Wireless Service in Hong Kong,Office of the Communications Authority,XLSX,Monthly,Key Statistics on Wireless Service in Hong Kong,N
+IT and Broadcasting,Job Vacancies,Office of the Government Chief Information Officer,JSON,As and when necessary,To provide relevant information of Job Vacancies of the Office of the Government Chief Information Officer.,N
+IT and Broadcasting,Key Communications Statistics,Office of the Communications Authority,XLSX,Monthly,Key Communications Statistics,N
+Education,Key Statistics on Special Education,Education Bureau,XLSX,Yearly,Provides key statistics on special education.,N
+Education,Key Statistics on Secondary Education,Education Bureau,XLSX,Yearly,Provides key statistics on secondary education.,N
+IT and Broadcasting,Frequency Table for Television Broadcasting Services in Hong Kong,Office of the Communications Authority,XLSX,As and when necessary,Frequency Table for Television Broadcasting Services in Hong Kong,N
+IT and Broadcasting,Financial Secretary - My Blog,Financial Secretary's Office,XML,As and when necessary,Financial Secretary - My Blog,N
+IT and Broadcasting,Frequency Table for Analogue Sound Broadcasting Services in Hong Kong,Office of the Communications Authority,XLSX,As and when necessary,Frequency Table for Analogue Sound Broadcasting Services in Hong Kong,N
+IT and Broadcasting,"Expression of Interest, Request for Information and Request for Proposals",Office of the Government Chief Information Officer,XLS,As and when necessary,"Expression of Interest, Request for Information and Request for Proposals of Office of the Government Chief Information Officer.",N
+Development,1:100 000 Orthophoto Map of Hong Kong,Lands Department,TIF,As and when necessary,Hong Kong Special Administrative Region 1:100 000 Orthophoto Map,N
+Education,List of Academic Programme Categories,University Grants Committee Secretariat,CSV,When necessary,List of all academic programme categories.,Y
+Education,Key Statistics on Primary Education,Education Bureau,XLSX,Yearly,Provides key statistics on primary education.,N
+IT and Broadcasting,Distribution of approved projects of Innovation and Technology Fund among different technology sectors,Innovation and Technology Commission,XLS,Every 1 month,Distribution of approved projects of Innovation and Technology Fund among different technology sectors,N
+IT and Broadcasting,Feature Articles on Information Technology and Broadcasting,Census and Statistics Department,CSV/XLS,Ad hoc,Feature Articles on Information Technology and Broadcasting,N
+Education,Government Expenditure on Education,Education Bureau,XLSX,Yearly,Provides government expenditure on education.,N
+IT and Broadcasting,Contractor List of Centrally organised IT contracts,Office of the Government Chief Information Officer,XLS,As and when necessary,The Government has arranged various centrally organised IT contracts for providing IT products and services to the bureaux and departments. IT firms may find it valuable to have collaboration opportunities with the existing contractors.,Y
+Education,Facilities Information,Education Bureau,XLSX,Once a year,Facilities and Contacts Information on the Self-financing Post-secondary Institutions,N
+Education,Educational and Training Institutions by Level of Education of Courses Offered,Education Bureau,XLSX,Yearly,Provides the number of educational and training institutions by level of education of courses offered.,N
+Education,Distribution of Educational Attainment of Population Aged 15 and Over,Education Bureau,XLSX,Yearly,Provides distribution of educational attainment of population aged 15 and over.,N
+Education,Deadlines for Submissions of Various Applications,Working Family and Student Financial Assistance Agency,XLSX,As and when necessary,Provides a list of deadlines for submissions of various applications,Y
+Education,Day Schools by Level and Sector,Education Bureau,XLS,Yearly,Provides day schools by level and sector,N
+Education,Key Statistics on Kindergarten Education,Education Bureau,XLSX,Yearly,Provides key statistics on kindergarten education.,N
+Education,Feature Articles on Education,Census and Statistics Department,XLS,Ad hoc,Feature Articles on Education,N
+Development,Monthly Digests of Buildings Department - New buildings - Notification of commencement of general building and superstructure work,Buildings Department,XLS,Monthly,"Statistics extracted from the Monthly Digests published by the Buildings Department.
+
+For more details about this dataset, you may refer to the PDF version of the Monthly Digests published on [the website of the Buildings...",N
+Education,Accommodation and Student Enrolment in Kindergartens by Grade,Education Bureau,XLS,Yearly,Provides accommodation and student enrolment in kindergartens by grade,N
+IT and Broadcasting,Computerisation in the Government,Office of the Government Chief Information Officer,XLS,Every 6 months,Some relevant figures concerning computerisation in the Government,Y
+IT and Broadcasting,Digital Inclusion Mobile Apps,Office of the Government Chief Information Officer,XLS,As and when necessary,"List of mobile apps developed under the Funding Scheme for Digital Inclusion Mobile Apps.
+
+The Office of the Government Chief Information Officer launched the funding scheme in 2012-13, 2014-15 and 2016-17 respectively to encourage the development of...",Y
+IT and Broadcasting,Distribution of approved projects of Innovation and Technology Fund among different industrial sectors,Innovation and Technology Commission,XLS,Every 1 month,Distribution of approved projects of Innovation and Technology Fund among different industrial sectors,N
+IT and Broadcasting,Digital Terrestrial Television (DTT) Coverage Database,Office of the Communications Authority,XLSX,As and when necessary,Digital Terrestrial Television (DTT) Coverage Database,N
+Education,2017 HKDSE Analysis of results of candidates in each subject,Hong Kong Examinations and Assessment Authority,CSV,Yearly,"The 2017 HKDSE Examination offers 24 Category A subjects, 19 of which offer both Chinese and English versions for candidates to choose from. The same marking scheme and grading standard were used for the Chinese and English versions of subjects with...",N
+Food,Wholesale prices of major fresh food (average reference figures),"Agriculture, Fisheries and Conservation Department",CSV,Everyday,Daily wholesale prices of major fresh food in Hong Kong,N
+Food,Supply of major fresh food  (reference figures),"Agriculture, Fisheries and Conservation Department",CSV,Everyday,Daily supply of major fresh food in Hong Kong,N
+Food,Sale of restricted food permits,Food and Environmental Hygiene Department,XML,Daily at 9:00am,List of premises holding sale of restricted food permits in Hong Kong,N
+Food,Average daily supply and auction prices of live pigs in the past 12 months,Food and Environmental Hygiene Department,XML,Daily at 6:00pm,Average daily supply and auction prices of live pigs in the past 12 months,N
+City Management,Drinking Water Quality (Part D.  Other parameters ),Water Supplies Department,CSV,Every 6 months,Provide Statistics on Drinking Water Quality (Part D.  Other parameters ),N
+City Management,Drinking Water Quality (Part C.  Radiological quality),Water Supplies Department,CSV,Every 6 months,Provide Statistics on Drinking Water Quality (Part C.  Radiological quality),N
+City Management,Drinking Water Quality (Part B.  Chemicals of health significance as described by World Health Organization's Guidelines for Drinking-water Quality 2011),Water Supplies Department,CSV,Every 6 months,Provide Statistics on Drinking Water Quality (Part B.  Chemicals of health significance as described by World Health Organization's Guidelines for Drinking-water Quality 2011),N
+City Management,Drinking Water Quality (Part A.  Microbiological quality),Water Supplies Department,CSV,Every 6 months,Provide Statistics on Drinking Water Quality (Part A.  Microbiological quality),N
+Food,Registered Pesticides List - Part I,"Agriculture, Fisheries and Conservation Department",XLSX,Update when necessary,Registered Pesticides List - Part I,Y
+Food,Restaurant licences,Food and Environmental Hygiene Department,XML,Daily at 9:00am,List of licensed restaurants in Hong Kong,N
+Food,Registered Pesticides List - Part II,"Agriculture, Fisheries and Conservation Department",XLSX,Update when necessary,Registered Pesticides List - Part II,Y
+Food,Pesticides Licensee List - Part I,"Agriculture, Fisheries and Conservation Department",CSV,Every 3 months,Part I of pesticides licensee list in Hong Kong,N
+Food,Food licences (except restaurant licences),Food and Environmental Hygiene Department,XML,Daily at 9:00am,List of premises holding food licences (except restaurant licences) in Hong Kong,N
+Education,2017 HKDSE Results statistics,Hong Kong Examinations and Assessment Authority,CSV,Yearly,"The general minimum requirement for admissions to first-degree courses in tertiary institutions is ‘core subjects at 3322’, which refers to attainment with level 3 in Chinese Language and English Language, and level 2 in Mathematics Compulsory Part...",N
+City Management,Drinking Water Quality (Full Report ),Water Supplies Department,XLSX,Every 6 months,Provide Statistics on Drinking Water Quality (Full Report),N
+City Management,Accessible facilities in Hong Kong,The Hong Kong Society for Rehabilitation,XML,As and when necessary,"A list of accessible facilities at local attractions, hotels, shopping / dining locations and other venues
+
+This dataset is the result of an extensive study on the accessibility of tourists' facilities in Hong Kong focusing on accommodation, dining...",N
+Law and Security,Feature Articles on Law and Security,Census and Statistics Department,XLS,Ad hoc,Feature Articles on Law and Security,N
+Law and Security,Information Desk - Access Co-ordinator in Correctional Services Department,Correctional Services Department,XLS,As and when necessary,"Information Desk - Access Co-ordinator in Correctional Services Department  to enhance the accessibility of Government premises, facilities and services",N
+Law and Security,Customs Statistics on Stop and Search of Persons / Vehicles and Road Block Operations,Customs and Excise Department,XLSX,Annually,Statistics on stop and search of persons / vehicles and road block operations by the Customs and Excise Department,N
+Law and Security,Police in Figures,Hong Kong Police Force,,As and when necessary,Police in Figures,N
+Law and Security,Other reward notices,Hong Kong Police Force,XML,As and when necessary,Other reward notices (not associated with wanted persons) issued by the Hong Kong Police,N
+Law and Security,Crime Statistics Comparison,Hong Kong Police Force,XLS,As and when necessary,Crime Statistics Comparison,N
+Law and Security,Approved Hand-in Articles,Correctional Services Department,XLS,As and when necessary,Persons in custody are allowed to receive some approved hand-in articles from their visitors upon visit.,Y
+Law and Security,Correctional Institutions Information,Correctional Services Department,XLS,As and when necessary,"Correctional Services Department Institutions Information
+",Y
+Law and Security,A Chronology of CSD's Development and Penal Measures of Hong Kong,Correctional Services Department,XLS,As and when necessary,This chronology provides brief reference of the historical development of the Correctional Services Department and penal measures of Hong Kong. The exact dates for the events are given if available.,Y
+Law and Security,Crime Statistics in Detail,Hong Kong Police Force,XLS,As and when necessary,Crime Statistics in Detail,N
+Law and Security,Missing persons,Hong Kong Police Force,XML,As and when necessary,Missing persons,N
+Law and Security,Information Desk -  Privacy Statement,Correctional Services Department,XLS,As and when necessary,Information Desk -  Privacy Statement on Correctional Services Department Policies and Practices in Relation to Personal Data,N
+Law and Security,Rehabilitation - Committee on Community Support for Rehabilitated Offenders,Correctional Services Department,XLS,As and when necessary,"Rehabilitation - Committee on Community Support for Rehabilitated Offenders with community leaders, employers, education sector, professionals and representatives of non-government organisations and government departments to advise on rehabilitation...",N
+Law and Security,Population in Penal Institutions,Correctional Services Department,XLS,As and when necessary,Population in Penal Institutions,N
+Law and Security,"Customs Statistics on Cases, Seizures and Arrests",Customs and Excise Department,XLSX,Annually,"Statistics on cases, seizures and arrests by the Customs and Excise Department",N
+Law and Security,Information Desk - Access Officer Scheme,Correctional Services Department,XLS,As and when necessary,"Information Desk - Access Officers in Correctional Services Department to enhance the accessibility of Government premises, facilities and services",Y
+Law and Security,Rehabilitation - Overview,Correctional Services Department,XLS,As and when necessary,Rehabilitation - Overview on rehabilitation services for offenders,N
+Law and Security,Recruitment - CSD Posts,Correctional Services Department,XLS,As and when necessary,Recruitment -  Details of CSD Posts,N
+Law and Security,Population under CSD Management / Supervision,Correctional Services Department,XLS,As and when necessary,Population under CSD Management / Supervision,Y
+Law and Security,Public Order Event Statistics,Hong Kong Police Force,XLS,As and when necessary,Public Order Event Statistics,N
+Law and Security,Rehabilitation - Publicity Activities for Rehabilitated Persons,Correctional Services Department,XLS,As and when necessary,Rehabilitation - Correctional Services Department  has organised a series of publicity and public education activities to appeal for public acceptance of and community support for rehabilitated persons,N
+Law and Security,Rewards & Special Services,Hong Kong Police Force,XLS,As and when necessary,Rewards & Special Services,Y
+Law and Security,Wanted persons with reward notices,Hong Kong Police Force,XML,As and when necessary,"Such information as name, descriptions and portrait of the wanted persons with reward notices",N
+Law and Security,Traffic Annual Report,Hong Kong Police Force,JSON,As and when necessary,Hong Kong Police Force provides traffic annual reports for the public to acquire the traffic statistics.,N
