@@ -16,8 +16,8 @@ class HkodItem(scrapy.Item):
     name = scrapy.Field()
     org = scrapy.Field()
     data_format = scrapy.Field()        
-    update_feq = scrapy.Field()   
+    update_freq = scrapy.Field()   
     desc = scrapy.Field()   
-    api = scrapy.Field()   
+    api = scrapy.Field()     
  
     pass
